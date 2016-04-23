@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
+  <mods:identifier type='local' displayLabel='master_id'>liv_002636</mods:identifier>
+  <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Letters, 2030</mods:identifier>
+  <mods:titleInfo>
+    <mods:title>Letter to Henry M. Stanley</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type='alternative'>
+    <mods:title>Letter to Henry M. Stanley, [January 1873?]</mods:title>
+  </mods:titleInfo>
+  <mods:name type='personal'>
+    <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
+    <mods:namePart>Stanley, Henry M., 1841-1904</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>addressee</mods:roleTerm>
+    </mods:role>
+    <mods:description>Journalist and explorer. Roving correspondent of the New York Herald. Sent by James G. Bennett to find Livingstone, and met him at Ujiji in November 1871. Travelled with Livingstone until March 1872. Later became a major explorer of Africa in his own right and, for King Leopold of Belgium, one of the founders of the Congo Free State.</mods:description>
+  </mods:name>
+  <mods:genre authority='aat'>letters</mods:genre>
+  <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
+  <mods:originInfo>
+    <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
+    <mods:dateCreated>[January 1873?]</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1873-01</mods:dateCreated>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='Livingstone'>
+    <mods:place>
+      <mods:placeTerm type='text'>Lake Bangweolo, South Central Africa</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='LoC'>
+    <mods:place>
+      <mods:placeTerm type='text'>Bangweulu, Lake (Zambia)</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>-11.083333,29.75</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:physicalDescription>
+    <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
+    <mods:extent unit='pages'>6</mods:extent>
+    <mods:note>3 folia, folded to create 6 pages, with writing on 6 pages</mods:note>
+    <mods:extent unit='mm'>folio</mods:extent>
+  </mods:physicalDescription>
+  <mods:relatedItem type='original'>
+    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n80126084'>
+      <mods:namePart>Musée royal de l'Afrique centrale</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:location>
+      <mods:shelfLocator>Stanley Archives, 479</mods:shelfLocator>
+    </mods:location>
+    <mods:accessCondition type='use and reproduction'>Images &amp;#169; Stanley Archives, collection King Baudouin foundation, under trust of RMCA Tervuren. Used by permission.</mods:accessCondition>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>The Times (London), 7 Apr. 1874, 5, c. 3, ex.</mods:identifier>
+  </mods:relatedItem>
+</mods:mods>

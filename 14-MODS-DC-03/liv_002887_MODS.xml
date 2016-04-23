@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
+  <mods:identifier type='local' displayLabel='master_id'>liv_002887</mods:identifier>
+  <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Journals, 10</mods:identifier>
+  <mods:titleInfo>
+    <mods:title>Journal</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type='alternative'>
+    <mods:title>Journal, 26 March 1864-23 January 1866</mods:title>
+  </mods:titleInfo>
+  <mods:name type='personal'>
+    <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre authority='aat'>diaries</mods:genre>
+  <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
+  <mods:originInfo>
+    <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
+    <mods:dateCreated>26 March 1864-23 January 1866</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1864-03-26/1866-01-23</mods:dateCreated>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='Livingstone'>
+    <mods:place>
+      <mods:placeTerm type='text'>[Mozambique, India, Great Britain]</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='LoC'>
+    <mods:place>
+      <mods:placeTerm type='text'>Mozambique</mods:placeTerm>
+    </mods:place>
+    <mods:place>
+      <mods:placeTerm type='text'>India</mods:placeTerm>
+    </mods:place>
+    <mods:place>
+      <mods:placeTerm type='text'>Great Britain</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>-18.0775,35.776667</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>21,78</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>53.214587,-1.665579</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:physicalDescription>
+    <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
+    <mods:extent unit='pages'>404</mods:extent>
+    <mods:extent unit='mm'>190 x 118</mods:extent>
+  </mods:physicalDescription>
+  <mods:relatedItem type='original'>
+    <mods:name type='corporate' authority='local'>
+      <mods:namePart>H.F. Wilson Collection (St. Fillans, Scotland)</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+  </mods:relatedItem>
+  <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10775</mods:identifier>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>George Seaver, David Livingstone: His Life and Letters (London: Lutterworth Press, 1957), 440-449, ex.</mods:identifier>
+  </mods:relatedItem>
+</mods:mods>
