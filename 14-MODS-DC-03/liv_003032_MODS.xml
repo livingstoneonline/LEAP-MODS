@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
+  <mods:identifier type='local' displayLabel='master_id'>liv_003032</mods:identifier>
+  <mods:titleInfo>
+    <mods:title>The Life and Work of David Livingstone, Missionary and Explorer: Complete Set of Forty Numbered Magic Lantern Slides with Explanatory Text (16 pages)</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type='alternative'>
+    <mods:title>The Life and Work of David Livingstone, Missionary and Explorer: Complete Set of Forty Numbered Magic Lantern Slides with Explanatory Text (16 pages), c.1880</mods:title>
+  </mods:titleInfo>
+  <mods:name type='personal'>
+    <mods:namePart>London Missionary Society</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre authority='aat'>lantern slides</mods:genre>
+  <mods:genre authority='aat'>visual works</mods:genre>
+  <mods:originInfo>
+    <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
+    <mods:dateCreated>[c.1880]</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1880</mods:dateCreated>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='Livingstone'>
+    <mods:place>
+      <mods:placeTerm type='text'>[London]</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='LoC'>
+    <mods:place>
+      <mods:placeTerm type='text'>London (England)</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>51.507222,-0.1275</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:physicalDescription>
+    <mods:extent unit='pages'>40 + 16</mods:extent>
+  </mods:physicalDescription>
+  <mods:relatedItem type='original'>
+    <mods:name type='corporate' authority='local'>
+      <mods:namePart>Private owner</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Wayfarer's Bookshop, March 2016, http://www.wayfarersbookshop.com/WayfarersMarch2016AfricaMiddleEast.php (accessed 3 May 2016).</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Wayfarer's Bookshop, February 2014, http://www.wayfarersbookshop.com/WayfarersFeb2014-NewAcquisitions.php (accessed 3 May 2016).</mods:identifier>
+  </mods:relatedItem>
+</mods:mods>
