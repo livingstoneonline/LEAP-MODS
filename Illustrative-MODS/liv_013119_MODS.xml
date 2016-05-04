@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
+  <mods:identifier type='local' displayLabel='master_id'>liv_013119</mods:identifier>
+  <mods:titleInfo>
+    <mods:title>Certificates</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type='alternative'>
+    <mods:title>Certificates, 1836-1838</mods:title>
+  </mods:titleInfo>
+  <mods:genre authority='aat'>images (object genre)</mods:genre>
+  <mods:physicalDescription>
+    <mods:note>1 image</mods:note>
+  </mods:physicalDescription>
+  <mods:originInfo>
+    <mods:dateCreated>1836-1838</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1836/1838</mods:dateCreated>
+    <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
+  </mods:originInfo>
+  <mods:relatedItem type='original'>
+    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/no2009190108'>
+      <mods:namePart>David Livingstone Centre</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+  </mods:relatedItem>
+  <mods:accessCondition type='use and reproduction'>&amp;#169; Livingstone Online. May not be reproduced without the express written consent of the National Trust for Scotland, on behalf of the Scottish National Memorial to David Livingstone Trust.</mods:accessCondition>
+</mods:mods>
