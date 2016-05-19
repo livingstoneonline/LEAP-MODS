@@ -5,13 +5,13 @@
     <mods:title>Livingstone Weak from Fever Escorted to Shinte’s Town</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Livingstone Weak from Fever Escorted to Shinte’s Town, Date Unknown</mods:title>
+    <mods:title>Livingstone Weak from Fever Escorted to Shinte’s Town, Date Unknown (c.1900)</mods:title>
   </mods:titleInfo>
   <mods:note displayLabel='creator'>One of the creators is unidentified.</mods:note>
   <mods:genre authority='aat'>lithographs</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>Date Unknown</mods:dateCreated>
+    <mods:dateCreated>Date Unknown (c.1900)</mods:dateCreated>
     <mods:dateCreated encoding='iso8601'>1900</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>

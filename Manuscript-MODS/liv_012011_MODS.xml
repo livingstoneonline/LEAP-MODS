@@ -5,7 +5,7 @@
     <mods:title>Tea Cup with a Portrait of David Livingstone and the Legend: A Present from Blantyre</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Tea Cup with a Portrait of David Livingstone and the Legend: A Present from Blantyre, Date Unknown</mods:title>
+    <mods:title>Tea Cup with a Portrait of David Livingstone and the Legend: A Present from Blantyre, Date Unknown (c.1950)</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>Sorreberg</mods:namePart>
@@ -17,7 +17,7 @@
   <mods:genre authority='aat'>visual works</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>Date Unknown</mods:dateCreated>
+    <mods:dateCreated>Date Unknown (c.1950)</mods:dateCreated>
     <mods:dateCreated encoding='iso8601'>1950</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>

@@ -5,7 +5,7 @@
     <mods:title>Picture Postcard of the Tombstone of David Livingstone in Westminster Abbey</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Picture Postcard of the Tombstone of David Livingstone in Westminster Abbey, Date Unknown</mods:title>
+    <mods:title>Picture Postcard of the Tombstone of David Livingstone in Westminster Abbey, Date Unknown (c.1900)</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>Collegiate Church of St Peter's Westminster, Westminster Abbey</mods:namePart>
@@ -16,7 +16,7 @@
   <mods:genre authority='aat'>picture postcards</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>Date Unknown</mods:dateCreated>
+    <mods:dateCreated>Date Unknown (c.1900)</mods:dateCreated>
     <mods:dateCreated encoding='iso8601'>1900</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>

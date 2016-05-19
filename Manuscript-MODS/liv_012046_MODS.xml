@@ -5,7 +5,7 @@
     <mods:title>Case for David Livingstone Maps from 1870s, plus Printed Map of North Africa</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Case for David Livingstone Maps from 1870s, plus Printed Map of North Africa, Date Unknown</mods:title>
+    <mods:title>Case for David Livingstone Maps from 1870s, plus Printed Map of North Africa, Date Unknown (c.1930?)</mods:title>
   </mods:titleInfo>
   <mods:note displayLabel='creator'>One of the creators is unidentified.</mods:note>
   <mods:genre authority='aat'>map cases</mods:genre>
@@ -13,7 +13,7 @@
   <mods:genre authority='aat'>publications</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>Date Unknown</mods:dateCreated>
+    <mods:dateCreated>Date Unknown Date Unknown (c.1930?)</mods:dateCreated>
     <mods:dateCreated encoding='iso8601'>1930</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>

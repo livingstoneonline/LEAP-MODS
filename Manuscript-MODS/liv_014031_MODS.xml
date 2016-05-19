@@ -5,7 +5,7 @@
     <mods:title>Prospectus Issued by John Murray, Publishers, Advertising Works by or Concerning Livingstone</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Prospectus Issued by John Murray, Publishers, Advertising Works by or Concerning Livingstone, Date Unknown</mods:title>
+    <mods:title>Prospectus Issued by John Murray, Publishers, Advertising Works by or Concerning Livingstone, Date Unknown (c.1914?)</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>John Murray, London, Publishers</mods:namePart>
@@ -16,7 +16,7 @@
   <mods:genre authority='aat'>booklets</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>Date Unknown</mods:dateCreated>
+    <mods:dateCreated>Date Unknown (c.1914?)</mods:dateCreated>
     <mods:dateCreated encoding='iso8601'>1914</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>

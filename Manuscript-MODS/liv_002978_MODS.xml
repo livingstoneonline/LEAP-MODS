@@ -6,7 +6,7 @@
     <mods:title>Envelope to William J. Hooker</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Envelope to William J. Hooker, Date Unknown</mods:title>
+    <mods:title>Envelope to William J. Hooker, Date Unknown (No Later than 1873)</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
@@ -25,7 +25,7 @@
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>Date Unknown</mods:dateCreated>
+    <mods:dateCreated>Date Unknown (No Later than 1873)</mods:dateCreated>
     <mods:dateCreated encoding='iso8601'>1873</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>

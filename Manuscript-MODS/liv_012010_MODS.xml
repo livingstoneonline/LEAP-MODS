@@ -5,14 +5,14 @@
     <mods:title>Lantern Slides of the Life, Adventures, and Work of David Livingstone</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Lantern Slides of the Life, Adventures, and Work of David Livingstone, Date Unknown</mods:title>
+    <mods:title>Lantern Slides of the Life, Adventures, and Work of David Livingstone, Date Unknown (c.1900)</mods:title>
   </mods:titleInfo>
   <mods:note displayLabel='creator'>One of the creators is unidentified.</mods:note>
   <mods:genre authority='aat'>lantern slides</mods:genre>
   <mods:genre authority='aat'>visual works</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>Date Unknown</mods:dateCreated>
+    <mods:dateCreated>Date Unknown (c.1900)</mods:dateCreated>
     <mods:dateCreated encoding='iso8601'>1900</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>

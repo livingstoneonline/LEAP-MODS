@@ -6,7 +6,7 @@
     <mods:title>Signed Copy of Isaac Watts, The Psalms of David, In Metre. Hymns &amp; Spiritual Songs in 3 Books (1840)</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Signed Copy of Isaac Watts, The Psalms of David, In Metre. Hymns &amp; Spiritual Songs in 3 Books (1840), Date Unknown</mods:title>
+    <mods:title>Signed Copy of Isaac Watts, The Psalms of David, In Metre. Hymns &amp; Spiritual Songs in 3 Books (1840), Date Unknown (No Later than 1873)</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
@@ -26,7 +26,7 @@
   <mods:genre authority='aat'>publications</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>Date Unknown</mods:dateCreated>
+    <mods:dateCreated>Date Unknown (No Later than 1873)</mods:dateCreated>
     <mods:dateCreated encoding='iso8601'>1873</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>

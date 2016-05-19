@@ -5,7 +5,7 @@
     <mods:title>Engraved Portrait of David Livingstone after a Photograph by Thomas Annan</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Engraved Portrait of David Livingstone after a Photograph by Thomas Annan, Date Unknown</mods:title>
+    <mods:title>Engraved Portrait of David Livingstone after a Photograph by Thomas Annan, Date Unknown (c.1874)</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>Annan, Thomas, 1829/1830-1887</mods:namePart>
@@ -28,7 +28,7 @@
   <mods:genre authority='aat'>engravings (prints)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>Date Unknown</mods:dateCreated>
+    <mods:dateCreated>Date Unknown (c.1874)</mods:dateCreated>
     <mods:dateCreated encoding='iso8601'>1874</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
