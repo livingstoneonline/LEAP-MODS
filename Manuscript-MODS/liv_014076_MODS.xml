@@ -2,10 +2,10 @@
 <mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
   <mods:identifier type='local' displayLabel='master_id'>liv_014076</mods:identifier>
   <mods:titleInfo>
-    <mods:title>Magic Lanter Slides, Livingstone and Stanley Series</mods:title>
+    <mods:title>Magic Lantern Slides, Livingstone and Stanley Series</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Magic Lanter Slides, Livingstone and Stanley Series, [1900]</mods:title>
+    <mods:title>Magic Lantern Slides, Livingstone and Stanley Series, [1900]</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>Murray, John IV, 1851-1928</mods:namePart>
