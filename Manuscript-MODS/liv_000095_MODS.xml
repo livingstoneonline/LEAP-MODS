@@ -3,10 +3,10 @@
   <mods:identifier type='local' displayLabel='master_id'>liv_000095</mods:identifier>
   <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Field Diaries, 37</mods:identifier>
   <mods:titleInfo>
-    <mods:title>Fragment of 1871 Field Diary (CII-CXXXIII)</mods:title>
+    <mods:title>Fragment of 1871 Field Diary (CII-CLXIII)</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Fragment of 1871 Field Diary (CII-CXXXIII), 23 March 1871-11 August 1871</mods:title>
+    <mods:title>Fragment of 1871 Field Diary (CII-CLXIII), 23 March 1871-11 August 1871</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
@@ -17,6 +17,7 @@
   <mods:genre authority='aat'>field notes</mods:genre>
   <mods:genre authority='aat'>diaries</mods:genre>
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
+  <mods:genre authority='aat'>spectral color</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
     <mods:dateCreated>23 March 1871-11 August 1871</mods:dateCreated>

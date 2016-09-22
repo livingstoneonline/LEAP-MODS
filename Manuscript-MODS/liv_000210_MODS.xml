@@ -17,6 +17,7 @@
   <mods:genre authority='aat'>field notes</mods:genre>
   <mods:genre authority='aat'>diaries</mods:genre>
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
+  <mods:genre authority='aat'>spectral color</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
     <mods:dateCreated>21 February-2 March 1871</mods:dateCreated>
@@ -40,6 +41,7 @@
   <mods:physicalDescription>
     <mods:note type='physical details'>Incomplete manuscript in creator's hand</mods:note>
     <mods:extent unit='pages'>2</mods:extent>
+    <mods:note>2 folia, folded to create 14 pages, with writing on 14 pages</mods:note>
     <mods:extent unit='mm'>385 x 270</mods:extent>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
@@ -52,7 +54,7 @@
     <mods:location>
       <mods:shelfLocator>MS. 10703, ff. 32-35</mods:shelfLocator>
     </mods:location>
-    <mods:accessCondition type='use and reproduction'>Images &amp;#169; National Library of Scotland. Creative Commons Share-alike 2.5 UK: Scotland (https://creativecommons.org/licenses/by-nc-sa/2.5/scotland/).</mods:accessCondition>
+    <mods:accessCondition type='use and reproduction'>Images &amp;#169; National Library of Scotland. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
     <mods:accessCondition type='use and reproduction'>As relevant, &amp;#169; Dr. Neil Imray Livingstone Wilson. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
   </mods:relatedItem>
 </mods:mods>
