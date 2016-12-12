@@ -57,7 +57,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>King Papers, vol. 1, pp. 566-569</mods:shelfLocator>
+      <mods:shelfLocator>King Papers, vol. 1, 566-569</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
   <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10777</mods:identifier>

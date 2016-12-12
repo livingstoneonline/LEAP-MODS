@@ -63,4 +63,7 @@
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>William Monk, ed., Dr. Livingstone’s Cambridge Lectures (etc.) (Cambridge, England: Deighton, Bell, and Co., and London: Bell and Daldy, Second Edition, 1860), 346-348.</mods:identifier>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Boletim Official Do Governo Geral Da Provincia de Mocambique, 12 (15 Oct. 1859), 166-167</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

@@ -22,8 +22,9 @@
     <mods:description>Congregational minister at Salisbury 1814-18. Foreign Secretary of the London Missionary Society 1839-68, and Livingstone's principle correspondent in the Society.</mods:description>
   </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
-  <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
   <mods:genre authority='aat'>typescripts</mods:genre>
+  <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
+  <mods:genre authority='aat'>fragments (object portions)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
     <mods:dateCreated>[20 January-30 April 1857]</mods:dateCreated>

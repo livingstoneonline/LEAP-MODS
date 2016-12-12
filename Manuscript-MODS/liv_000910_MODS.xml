@@ -30,7 +30,7 @@
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
-      <mods:placeTerm type='text'>H.M.B. "Frolic" at sea</mods:placeTerm>
+      <mods:placeTerm type='text'>At Sea, on Board H.M. Brig Frolic</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
@@ -57,7 +57,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>LI 1/1/1, pp. 499-509</mods:shelfLocator>
+      <mods:shelfLocator>LI 1/1/1, 499-509</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>

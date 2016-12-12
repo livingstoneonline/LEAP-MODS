@@ -19,7 +19,7 @@
     <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
     </mods:role>
-    <mods:description>After a period as editor of the Glasgow Courier, moved to London and wrote much on African geography. Livingstone thought him a mere "armchair geographer."</mods:description>
+    <mods:description>"Armchair" geographer. After a period as editor of the Glasgow Courier, moved to London and wrote much on African geography.</mods:description>
   </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
   <mods:genre authority='aat'>copies (derivative objects)</mods:genre>

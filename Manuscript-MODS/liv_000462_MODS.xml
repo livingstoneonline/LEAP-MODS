@@ -19,7 +19,7 @@
     <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
     </mods:role>
-    <mods:description>Native of Edinburgh. Was a fellow student of Livingstone at Ongar. Appointed to Samoa, but died at Sydney en route in February 1840.</mods:description>
+    <mods:description>Missionary. Native of Edinburgh. Was a fellow student of Livingstone at Ongar. Appointed to Samoa, but died at Sydney en route in February 1840.</mods:description>
   </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
@@ -57,12 +57,15 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>MS. 10707, ff. 1-4</mods:shelfLocator>
+      <mods:shelfLocator>MS. 10707, 1-4</mods:shelfLocator>
     </mods:location>
     <mods:accessCondition type='use and reproduction'>Images &amp;#169; National Library of Scotland. Creative Commons Share-alike 2.5 UK: Scotland (https://creativecommons.org/licenses/by-nc-sa/2.5/scotland/).</mods:accessCondition>
     <mods:accessCondition type='use and reproduction'>As relevant, &amp;#169; Dr. Neil Imray Livingstone Wilson. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>David Chamberlin, ed., Some Letters from Livingstone, 1840-1872 (London: Oxford University Press, 1940), 5-7.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Michael Gelfand, Livingstone the Doctor; His Life and Travels: A Study in Medical History (Oxford: Basil Blackwell, 1957), 24, ex.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

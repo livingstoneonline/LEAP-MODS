@@ -30,7 +30,7 @@
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
-      <mods:placeTerm type='text'>[Southwest of Tete]</mods:placeTerm>
+      <mods:placeTerm type='text'>Southwest of Zambesi before Reaching Tete </mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
@@ -57,7 +57,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>LI 1/1/1, pp. 379-382</mods:shelfLocator>
+      <mods:shelfLocator>LI 1/1/1, 379-382</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
 </mods:mods>

@@ -19,7 +19,7 @@
     <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
     </mods:role>
-    <mods:description>Arthur Richard Wellesley. Succeeded to the title in 1852. Soldier and politician.</mods:description>
+    <mods:description>Soldier and politician. Arthur Richard Wellesley. Succeeded to the title in 1852.</mods:description>
   </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
   <mods:genre authority='aat'>copies (derivative objects)</mods:genre>

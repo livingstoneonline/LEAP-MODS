@@ -16,6 +16,7 @@
   </mods:name>
   <mods:genre authority='aat'>research notes</mods:genre>
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
+  <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
     <mods:dateCreated>1850-1852</mods:dateCreated>

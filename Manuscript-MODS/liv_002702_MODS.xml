@@ -14,11 +14,11 @@
     </mods:role>
   </mods:name>
   <mods:name type='personal'>
-    <mods:namePart>Cooke, Robert, ?-1891</mods:namePart>
+    <mods:namePart>Cooke, Robert, 1816-1891</mods:namePart>
     <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
     </mods:role>
-    <mods:description>Cousin and partner of John Murray, Livingstone's publisher.</mods:description>
+    <mods:description>Partner at John Murray publishing house, Livingstone's publisher.</mods:description>
   </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>

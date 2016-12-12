@@ -17,6 +17,12 @@
   <mods:name type='personal'>
     <mods:namePart>Moffat, Robert 1, 1795-1883</mods:namePart>
     <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
+    <mods:namePart>Moffat, Robert 1, 1795-1883</mods:namePart>
+    <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
     </mods:role>
     <mods:description>Missionary of the London Missionary Society in South Africa 1816-70. Translated the Bible into Setswana, the first complete translation into a Bantu language. Influenced Livingstone to go to Africa and became his father-in-law in 1845.</mods:description>
@@ -58,5 +64,8 @@
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Myers' Cat., 8 (1972), no. 5, item 3.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Myers' Cat., 6 (Spring, 1967), no. 12.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

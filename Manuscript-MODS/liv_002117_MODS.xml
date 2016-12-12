@@ -30,7 +30,7 @@
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
-      <mods:placeTerm type='text'>Newstead Abbey</mods:placeTerm>
+      <mods:placeTerm type='text'>[Newstead Abbey]</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
@@ -50,15 +50,17 @@
     <mods:extent unit='mm'>176 x 113</mods:extent>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
-    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n50064188'>
-      <mods:namePart>United Society for the Propagation of the Gospel</mods:namePart>
+    <mods:name type='corporate' authority='local'>
+      <mods:namePart>Bodleian Library. Weston Library</mods:namePart>
       <mods:role>
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>B4 ii, ff. 16-17</mods:shelfLocator>
+      <mods:shelfLocator>U.M.C.A. B4 (ii), 16-17</mods:shelfLocator>
     </mods:location>
+    <mods:accessCondition type='use and reproduction'>Images &amp;#169; The Bodleian Library, University of Oxford. Used by permission.</mods:accessCondition>
+    <mods:accessCondition type='use and reproduction'>As relevant, &amp;#169; Dr. Neil Imray Livingstone Wilson. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
   </mods:relatedItem>
   <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10779</mods:identifier>
 </mods:mods>

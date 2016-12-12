@@ -17,6 +17,7 @@
   <mods:genre authority='aat'>reviews (document genre)</mods:genre>
   <mods:genre authority='aat'>essays</mods:genre>
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
+  <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
     <mods:dateCreated>[November 1850-January 1851]</mods:dateCreated>
@@ -50,7 +51,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>LI 1/1/1, pp. 2305-2329</mods:shelfLocator>
+      <mods:shelfLocator>LI 1/1/1, 2305-2329</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
   <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10780</mods:identifier>

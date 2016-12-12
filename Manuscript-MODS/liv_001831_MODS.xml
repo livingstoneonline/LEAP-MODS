@@ -65,10 +65,16 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>LI 1/1/1, pp. 1514-1536</mods:shelfLocator>
+      <mods:shelfLocator>LI 1/1/1, 1514-1536</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
+    <mods:identifier>William Garden Blaikie, The Personal Life of David Livingstone (London: John Murray, 1880), 309, ex.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
     <mods:identifier>J.P.R. Wallis, The Zambezi Expedition of David Livingstone, 1858-1863 (London: Chatto &amp;amp; Windus, 1956), vol. 2, 374-377.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>George Seaver, David Livingstone: His Life and Letters (London: Lutterworth Press, 1957), 421-422, ex.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

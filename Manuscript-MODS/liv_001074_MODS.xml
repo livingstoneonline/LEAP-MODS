@@ -3,10 +3,10 @@
   <mods:identifier type='local' displayLabel='master_id'>liv_001074</mods:identifier>
   <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Letters, 0567</mods:identifier>
   <mods:titleInfo>
-    <mods:title>Letter to Unknown</mods:title>
+    <mods:title>[Draft of?] Letter to Unknown Admiralty Official</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Letter to Unknown, 13 August 1857</mods:title>
+    <mods:title>Letter to Unknown Admiralty Official, 13 August 1857</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
@@ -14,9 +14,15 @@
       <mods:roleTerm type='text'>creator</mods:roleTerm>
     </mods:role>
   </mods:name>
-  <mods:note displayLabel='addressee'>The addressee is unknown.</mods:note>
+  <mods:name type='personal'>
+    <mods:namePart>Unknown Admiralty Official</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>addressee</mods:roleTerm>
+    </mods:role>
+  </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
+  <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
     <mods:dateCreated>13 August 1857</mods:dateCreated>
@@ -51,7 +57,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>LI 1/1/1, pp. 674-677</mods:shelfLocator>
+      <mods:shelfLocator>LI 1/1/1, 674-677</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
 </mods:mods>

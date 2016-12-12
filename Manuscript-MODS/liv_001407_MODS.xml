@@ -65,4 +65,7 @@
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>New York Herald, 7 Jan. 1860.</mods:identifier>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Mittheilungen aus Justus Perthes' Geographischer Anstalt (Gotha), 1860, 149-150.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

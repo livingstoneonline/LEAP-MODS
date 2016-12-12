@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes'?>
 <mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
-  <mods:identifier type='local' displayLabel='master_id'>liv_015004</mods:identifier>
-  <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Books, 04</mods:identifier>
+  <mods:identifier type='local' displayLabel='master_id'>liv_003094</mods:identifier>
+  <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Books, 03</mods:identifier>
   <mods:titleInfo>
-    <mods:title>The Last Journals of David Livingstone in Central Africa, Vol. 2 (1871 Field Diary Segment)</mods:title>
+    <mods:title>Narrative of an Expedition to the Zambesi and its Tributaries (Vol. 1)</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>The Last Journals of David Livingstone in Central Africa, Vol. 2 (1871 Field Diary Segment), 1874</mods:title>
+    <mods:title>Narrative of an Expedition to the Zambesi and its Tributaries (Vol. 1), [1864]</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
@@ -15,19 +15,17 @@
     </mods:role>
   </mods:name>
   <mods:name type='personal'>
-    <mods:namePart>Waller, Horace, 1833-1896</mods:namePart>
+    <mods:namePart>Livingstone, Charles, 1821-1873</mods:namePart>
     <mods:role>
       <mods:roleTerm type='text'>creator</mods:roleTerm>
     </mods:role>
   </mods:name>
-  <mods:genre authority='aat'>field notes</mods:genre>
-  <mods:genre authority='aat'>diaries</mods:genre>
-  <mods:genre authority='aat'>books</mods:genre>
-  <mods:genre authority='aat'>publications</mods:genre>
+  <mods:genre authority='aat'>manuscripts for publication</mods:genre>
+  <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>1874</mods:dateCreated>
-    <mods:dateCreated encoding='iso8601'>1874</mods:dateCreated>
+    <mods:dateCreated>[1864]</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1864</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
@@ -45,14 +43,20 @@
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>
-    <mods:note type='physical details'>Published copy</mods:note>
+    <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
+    <mods:extent unit='pages'>304</mods:extent>
+    <mods:extent unit='mm'>176 x 110</mods:extent>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
-    <mods:name type='corporate' authority='local'>
-      <mods:namePart>Private owner</mods:namePart>
+    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n95113602'>
+      <mods:namePart>Oberlin College. Archives</mods:namePart>
       <mods:role>
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
     </mods:name>
+    <mods:location>
+      <mods:shelfLocator>Charles Livingstone Collection</mods:shelfLocator>
+    </mods:location>
+    <mods:accessCondition type='use and reproduction'>Images &amp;#169; Oberlin College Archives. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
   </mods:relatedItem>
 </mods:mods>

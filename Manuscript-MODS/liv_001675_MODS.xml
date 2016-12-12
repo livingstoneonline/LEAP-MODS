@@ -60,7 +60,11 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>LI 1/1/1, pp. 1317-1332</mods:shelfLocator>
+      <mods:shelfLocator>LI 1/1/1, 1317-1332</mods:shelfLocator>
     </mods:location>
+  </mods:relatedItem>
+  <mods:identifier type='local' displayLabel='NLS copy identifier'>Bridglal Pachai, ed., Livingstone: Man of Africa. Memorial Essays, 1873-1973 (London: Longman Group Ltd., 1973), 153, 184.</mods:identifier>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Judith Listowel, The Other Livingstone (Lewes, Sussex: Julian Friedmann Publishers Ltd., 1974), 170, 200.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

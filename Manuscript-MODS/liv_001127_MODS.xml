@@ -60,4 +60,7 @@
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Sotheby's Cat., 13 Jul. 1976, lot 502.</mods:identifier>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Sotheby's Cat., 7 Dec. 1976, lot 409.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

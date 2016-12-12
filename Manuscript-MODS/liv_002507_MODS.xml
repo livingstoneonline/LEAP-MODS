@@ -19,7 +19,7 @@
     <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
     </mods:role>
-    <mods:description>George William Frederick Villiers. Succeeded to the peerage in 1838. Foreign Secretary 1853-58, 1865-66, and 1868-70. Involved in both Livingstone's Zambezi and final expeditions. Died in June 1870. Livingstone gave his name to Mount Clarendon, east of the Shire river.</mods:description>
+    <mods:description>George William Frederick Villiers. English diplomat and statesman. Succeeded to the peerage in 1838. Foreign Secretary 1853-58, 1865-66, and 1868-70. Involved in both Livingstone's Zambezi and final expeditions. Died in June 1870. Livingstone gave his name to Mount Clarendon, east of the Shire river.</mods:description>
   </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
@@ -57,7 +57,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>FO 84/1277, ff. 217-220</mods:shelfLocator>
+      <mods:shelfLocator>FO 84/1277, 217-220</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>

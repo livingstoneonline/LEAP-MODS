@@ -57,6 +57,12 @@
     </mods:name>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Reginald Coupland, Kirk on the Zambesi: A Chapter of African History (Oxford: the Clarendon Press, 1928), 158.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
     <mods:identifier>Reginald Foskett, ed., The Zambesi Doctors: David Livingstone’s Letters to John Kirk, 1858-1872 (Edinburgh: Edinburgh University Press, 1964), 58-59.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Sotheby's Cat., 21 Mar. 1966, lot 185.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

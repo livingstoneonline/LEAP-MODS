@@ -14,6 +14,7 @@
       <mods:roleTerm type='text'>creator</mods:roleTerm>
     </mods:role>
   </mods:name>
+  <mods:note displayLabel='creator'>One of the creators is unidentified.</mods:note>
   <mods:name type='personal'>
     <mods:namePart>The Times, Editor of</mods:namePart>
     <mods:role>
@@ -56,7 +57,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>MS. 20312, ff. 88-91</mods:shelfLocator>
+      <mods:shelfLocator>MS. 20312, 88-91</mods:shelfLocator>
     </mods:location>
     <mods:accessCondition type='use and reproduction'>Images &amp;#169; National Library of Scotland. Creative Commons Share-alike 2.5 UK: Scotland (https://creativecommons.org/licenses/by-nc-sa/2.5/scotland/).</mods:accessCondition>
     <mods:accessCondition type='use and reproduction'>As relevant, &amp;#169; Dr. Neil Imray Livingstone Wilson. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>

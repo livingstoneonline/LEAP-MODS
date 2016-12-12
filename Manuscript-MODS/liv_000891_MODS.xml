@@ -19,7 +19,7 @@
     <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
     </mods:role>
-    <mods:description>George William Frederick Villiers. Succeeded to the peerage in 1838. Foreign Secretary 1853-58, 1865-66, and 1868-70. Involved in both Livingstone's Zambezi and final expeditions. Died in June 1870. Livingstone gave his name to Mount Clarendon, east of the Shire river.</mods:description>
+    <mods:description>George William Frederick Villiers. English diplomat and statesman. Succeeded to the peerage in 1838. Foreign Secretary 1853-58, 1865-66, and 1868-70. Involved in both Livingstone's Zambezi and final expeditions. Died in June 1870. Livingstone gave his name to Mount Clarendon, east of the Shire river.</mods:description>
   </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
   <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
@@ -58,5 +58,11 @@
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Parliamentary Papers (Great Britain), Sess. 2 1857, XLIV, [212] Class A 62-66.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Boletim Offical Do Governo Geral Da Provincia de Mocambique, No. 8 (20 Feb. 1858), 35-36; No. 10 (6 Mar. 1858), 42-43; No. 11 (13 Mar. 1858), 47-48; No. 16 (17 Apr. 1858), 67-68.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Boletim Offical Do Governo Geral Da Provincia de Angola, No. 600 (18 Mar. 1857), 8-11; No. 601 (4 Apr. 1857), 9-11.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

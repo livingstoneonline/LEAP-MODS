@@ -19,7 +19,7 @@
     <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
     </mods:role>
-    <mods:description>Native of Irvine. Student at Glasgow and Spring Hill College. Missionary in Benares 1840-45. Pastor of various independent churches in England.</mods:description>
+    <mods:description>Churchman. Native of Irvine. Student at Glasgow and Spring Hill College. Missionary in Benares 1840-45. Pastor of various independent churches in England.</mods:description>
   </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
@@ -65,7 +65,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>MS. 10707, ff. 12-13</mods:shelfLocator>
+      <mods:shelfLocator>MS. 10707, 12-13</mods:shelfLocator>
     </mods:location>
     <mods:accessCondition type='use and reproduction'>Images &amp;#169; National Library of Scotland. Creative Commons Share-alike 2.5 UK: Scotland (https://creativecommons.org/licenses/by-nc-sa/2.5/scotland/).</mods:accessCondition>
     <mods:accessCondition type='use and reproduction'>As relevant, &amp;#169; Dr. Neil Imray Livingstone Wilson. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>

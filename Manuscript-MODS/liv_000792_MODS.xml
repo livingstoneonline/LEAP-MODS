@@ -57,7 +57,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>ST 1/1/1, pp. 174-176</mods:shelfLocator>
+      <mods:shelfLocator>ST 1/1/1, 174-176</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>

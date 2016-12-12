@@ -17,6 +17,12 @@
   <mods:name type='personal'>
     <mods:namePart>Maclear, Thomas, 1794-1879</mods:namePart>
     <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
+    <mods:namePart>Maclear, Thomas, 1794-1879</mods:namePart>
+    <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
     </mods:role>
     <mods:description>Appointed astronomer of the Royal Observatory at Cape Town in 1833. Knighted 1860. Met Livingstone in 1852, became a close friend, and thereafter Livingstone depended on him to check and reduce his observations. Livingstone named Cape Maclear after him.</mods:description>
@@ -45,7 +51,7 @@
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>
-    <mods:note type='physical details'>Manuscript copy in unknown hand</mods:note>
+    <mods:note type='physical details'>Manuscript copy in another hand</mods:note>
     <mods:extent unit='pages'>4</mods:extent>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
@@ -56,7 +62,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>LI 1/1/1, pp. 142-145</mods:shelfLocator>
+      <mods:shelfLocator>LI 1/1/1, 142-145</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
 </mods:mods>

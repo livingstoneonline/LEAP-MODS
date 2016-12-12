@@ -6,7 +6,7 @@
     <mods:title>Letter Inclosure No. 2</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Letter Inclosure No. 2, 20 February 1860</mods:title>
+    <mods:title>Letter Inclosure No. 2, 20 [or 27] February 1860</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
@@ -18,8 +18,8 @@
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>20 February 1860</mods:dateCreated>
-    <mods:dateCreated encoding='iso8601'>1860-02-20</mods:dateCreated>
+    <mods:dateCreated>20 [or 27] February 1860</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1860-02-20/1860-02-27</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
@@ -49,7 +49,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>FO 63/871, ff. 390-393</mods:shelfLocator>
+      <mods:shelfLocator>FO 63/871, 390-393</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
   <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10780</mods:identifier>

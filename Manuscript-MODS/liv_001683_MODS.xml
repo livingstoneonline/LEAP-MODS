@@ -17,6 +17,12 @@
   <mods:name type='personal'>
     <mods:namePart>Mackenzie, Charles F., 1825-1862</mods:namePart>
     <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
+    <mods:namePart>Mackenzie, Charles F., 1825-1862</mods:namePart>
+    <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
     </mods:role>
     <mods:description>Archdeacon to John W. Colenso in Natal, 1854-59. Chosen to lead the Universities' Mission to Central Africa. Was consecrated Bishop of Central Africa in Cape Town 1861. Died in 1862 of fever at the confluence of the Ruo and Shire Rivers.</mods:description>
@@ -45,7 +51,7 @@
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>
-    <mods:note type='physical details'>Manuscript copy in unknown hand</mods:note>
+    <mods:note type='physical details'>Manuscript copy in another hand</mods:note>
     <mods:extent unit='pages'>1</mods:extent>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
@@ -56,7 +62,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>A1(I)A, Book 1, f. 24</mods:shelfLocator>
+      <mods:shelfLocator>A1(I)A, Book 1, 24</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
 </mods:mods>

@@ -61,6 +61,9 @@
     </mods:location>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
+    <mods:identifier>James Wells, Stewart of Lovedale: The Life of James Stewart (London: Hodder &amp;amp; Stoughton, Second edition, 1909), 85-86.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
     <mods:identifier>J.P.R. Wallis, ed., The Zambesi Journal of James Stewart, 1862-1863, with a Selection from His Correspondence (London: Chatto &amp;amp; Windus, 1952), 214-215.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

@@ -19,7 +19,7 @@
     <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
     </mods:role>
-    <mods:description>Fourth son of Robert Moffat. Made a contract with Livingstone to spread the gospel into the Zambezi region. In 1859, he and his wife took up residence among the Matebele, in what today is Zimbabwe.</mods:description>
+    <mods:description>Missionary. Fourth son of Robert Moffat. Made a contract with Livingstone to spread the gospel into the Zambezi region. In 1859, he and his wife took up residence among the Matebele, in what today is Zimbabwe.</mods:description>
   </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
@@ -58,7 +58,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>MO 1/1/6, pp. 304-307</mods:shelfLocator>
+      <mods:shelfLocator>MO 1/1/6, 304-307</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>

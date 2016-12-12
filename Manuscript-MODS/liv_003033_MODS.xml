@@ -14,10 +14,11 @@
     </mods:role>
   </mods:name>
   <mods:name type='personal'>
-    <mods:namePart>Eisdell, Miss</mods:namePart>
+    <mods:namePart>Eisdell, Rebecca</mods:namePart>
     <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
     </mods:role>
+    <mods:description>Educator. With younger sister Roseanne, ran a select establishment for young ladies at The Cedars in Church Street, Epsom. Was headmistress and taught general literature. Best known pupils were Livingstone's children.</mods:description>
   </mods:name>
   <mods:genre authority='aat'>signatures (names)</mods:genre>
   <mods:genre authority='aat'>publications</mods:genre>

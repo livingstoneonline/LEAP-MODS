@@ -15,6 +15,12 @@
     </mods:role>
   </mods:name>
   <mods:name type='personal'>
+    <mods:namePart>Waterson, Jane Elizabeth, 1843-1932</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
     <mods:namePart>Nunes, Jose M.</mods:namePart>
     <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
@@ -56,7 +62,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>LI 1/1/1, pp. 928-931</mods:shelfLocator>
+      <mods:shelfLocator>LI 1/1/1, 928-931</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
   <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10779</mods:identifier>

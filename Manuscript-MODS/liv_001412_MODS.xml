@@ -17,6 +17,12 @@
   <mods:name type='personal'>
     <mods:namePart>Monk, William, 1826-1884</mods:namePart>
     <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
+    <mods:namePart>Monk, William, 1826-1884</mods:namePart>
+    <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
     </mods:role>
     <mods:description>Curate of St. Andrew's-the-Less, Cambridge, 1855-58. Editor of Livingstone's Cambridge lectures.</mods:description>
@@ -45,7 +51,7 @@
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>
-    <mods:note type='physical details'>Manuscript copy in unknown hand</mods:note>
+    <mods:note type='physical details'>Manuscript copy in another hand</mods:note>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
     <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n96084627'>
@@ -54,6 +60,9 @@
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
     </mods:name>
+    <mods:location>
+      <mods:shelfLocator>[missing]</mods:shelfLocator>
+    </mods:location>
     <mods:accessCondition type='use and reproduction'>Images &amp;#169; Kimberley Africana Library Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>

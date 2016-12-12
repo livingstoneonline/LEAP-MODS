@@ -52,6 +52,9 @@
     </mods:name>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Sotheby's Cat., 2 Jul. 1962, lot 235.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
     <mods:identifier>Sawyer's Cat., SA/56, addenda, 1967, no. 115.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

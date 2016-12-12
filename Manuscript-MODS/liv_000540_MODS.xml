@@ -66,4 +66,7 @@
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>David Chamberlin, ed., Some Letters from Livingstone, 1840-1872 (London: Oxford University Press, 1940), 59-62.</mods:identifier>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Isaac Schapera, ed., David Livingstone: South African Papers, 1849-1853 (Cape Town: Van Riebeck Society, 1974), preface, ex.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

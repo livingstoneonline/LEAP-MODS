@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes'?>
 <mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
-  <mods:identifier type='local' displayLabel='master_id'>liv_015002</mods:identifier>
-  <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Field Diaries, 33, 37, 38, 39</mods:identifier>
+  <mods:identifier type='local' displayLabel='master_id'>liv_003057</mods:identifier>
+  <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Letters, 1187</mods:identifier>
   <mods:titleInfo>
-    <mods:title>1871 Field Diary (Fragments Integrated)</mods:title>
+    <mods:title>Draft of Letter Inclosure No. 2</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>1871 Field Diary (Fragments Integrated), 23 March 1871-3 November 1871</mods:title>
+    <mods:title>Draft of Letter Inclosure No. 2, 22 February 1862</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
@@ -14,46 +14,41 @@
       <mods:roleTerm type='text'>creator</mods:roleTerm>
     </mods:role>
   </mods:name>
-  <mods:genre authority='aat'>field notes</mods:genre>
-  <mods:genre authority='aat'>diaries</mods:genre>
+  <mods:genre authority='aat'>letters</mods:genre>
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
+  <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>23 March 1871-3 November 1871</mods:dateCreated>
-    <mods:dateCreated encoding='iso8601'>1871-03-23/1871-11-03</mods:dateCreated>
+    <mods:dateCreated>22 February 1862</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1862-02-22</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
-      <mods:placeTerm type='text'>Nyangwe; Manyema; Ujiji</mods:placeTerm>
+      <mods:placeTerm type='text'>River Zambesi</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
     <mods:place>
-      <mods:placeTerm type='text'>Maniema (Congo)</mods:placeTerm>
-    </mods:place>
-    <mods:place>
-      <mods:placeTerm type='text'>Ujiji (Tanzania)</mods:placeTerm>
+      <mods:placeTerm type='text'>Zambezi River</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:subject>
     <mods:cartographics>
-      <mods:coordinates>-2.95,25.95</mods:coordinates>
-    </mods:cartographics>
-  </mods:subject>
-  <mods:subject>
-    <mods:cartographics>
-      <mods:coordinates>-4.9,29.683333</mods:coordinates>
+      <mods:coordinates>-18.570556,36.470278</mods:coordinates>
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>
-    <mods:note type='physical details'>Incomplete manuscript in creator's hand</mods:note>
+    <mods:note type='physical details'>Complete manuscript in another hand</mods:note>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
-    <mods:name type='corporate' authority='local'>
-      <mods:namePart>Livingstone Online</mods:namePart>
+    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n82162813'>
+      <mods:namePart>Zimbabwe. National Archives</mods:namePart>
       <mods:role>
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
     </mods:name>
+    <mods:location>
+      <mods:shelfLocator>LI 1/1/1, 1369-1371</mods:shelfLocator>
+    </mods:location>
   </mods:relatedItem>
 </mods:mods>

@@ -14,6 +14,12 @@
     </mods:role>
   </mods:name>
   <mods:name type='personal'>
+    <mods:namePart>Livingstone, Agnes 3, 1847-1912</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
     <mods:namePart>Webb, William F., 1829-1899</mods:namePart>
     <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
@@ -44,7 +50,7 @@
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>
-    <mods:note type='physical details'>Manuscript copy in unknown hand</mods:note>
+    <mods:note type='physical details'>Manuscript copy in another hand</mods:note>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
     <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n84067847'>

@@ -50,6 +50,9 @@
     </mods:name>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Cape Argus, 18 Apr. 1860.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
     <mods:identifier>Glasgow Herald, 11 Jun. 1861, 2.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

@@ -51,4 +51,7 @@
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>The Athenaeum (London), 1688 (3 Mar. 1860), 304.</mods:identifier>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Mittheilungen aus Justus Perthes' Geographischer Anstalt (Gotha), 1860, 160-161.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

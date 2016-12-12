@@ -15,6 +15,12 @@
     </mods:role>
   </mods:name>
   <mods:name type='personal'>
+    <mods:namePart>Waterson, Jane Elizabeth, 1843-1932</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
     <mods:namePart>Nunes, Jose M.</mods:namePart>
     <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>

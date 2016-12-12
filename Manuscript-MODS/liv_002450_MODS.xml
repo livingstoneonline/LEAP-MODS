@@ -57,7 +57,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>Add. MS. 50184, ff. 135-139</mods:shelfLocator>
+      <mods:shelfLocator>Add. MS. 50184, 135-139</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
   <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10780</mods:identifier>

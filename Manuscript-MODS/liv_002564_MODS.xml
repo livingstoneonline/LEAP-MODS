@@ -23,7 +23,6 @@
   </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
-  <mods:genre authority='aat'>spectral color</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
     <mods:dateCreated>5 February 1871</mods:dateCreated>
@@ -47,7 +46,6 @@
   <mods:physicalDescription>
     <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
     <mods:extent unit='pages'>4</mods:extent>
-    <mods:note>2 folia, folded to create 4 pages, with writing on 4 pages</mods:note>
     <mods:extent unit='mm'>folio</mods:extent>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>

@@ -19,7 +19,7 @@
     <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
     </mods:role>
-    <mods:description>Fourth son of Robert Moffat. Made a contract with Livingstone to spread the gospel into the Zambezi region. In 1859, he and his wife took up residence among the Matebele, in what today is Zimbabwe.</mods:description>
+    <mods:description>Missionary. Fourth son of Robert Moffat. Made a contract with Livingstone to spread the gospel into the Zambezi region. In 1859, he and his wife took up residence among the Matebele, in what today is Zimbabwe.</mods:description>
   </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
@@ -57,10 +57,13 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>MO 1/1/6, pp. 648-651</mods:shelfLocator>
+      <mods:shelfLocator>MO 1/1/6, 648-651</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>J.P.R. Wallis, ed., The Matabele Mission: A Selection from the Correspondence of John and Emily Moffat, David Livingstone and Others, 1858-1878 (London: Chatto &amp;amp; Windus, 1945), 82-85.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>George Seaver, David Livingstone: His Life and Letters (London: Lutterworth Press, 1957), 356-357, ex.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

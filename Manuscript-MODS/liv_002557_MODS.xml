@@ -19,7 +19,7 @@
     <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
     </mods:role>
-    <mods:description>Brother of Lyon Playfair. Rose to the rank of Lieutenant Colonel in the Madras army. Consul at Zanzibar, and for Algeria 1867-96. Knighted 1886.</mods:description>
+    <mods:description>Soldier, diplomat, naturalist, and author. Brother of Lyon Playfair. Rose to the rank of Lieutenant Colonel in the Madras army. Consul at Zanzibar, and for Algeria 1867-96. Knighted 1886.</mods:description>
   </mods:name>
   <mods:name type='personal'>
     <mods:namePart>Kirk, John 2, 1832-1922</mods:namePart>
@@ -68,6 +68,6 @@
     <mods:identifier>Reginald Foskett, ed., The Zambesi Doctors: David Livingstone’s Letters to John Kirk, 1858-1872 (Edinburgh: Edinburgh University Press, 1964), 140-144.</mods:identifier>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
-    <mods:identifier>Christie's (London), 25 September 2008, http://www.christies.com/lotfinder/books-manuscripts/david-livingstone-5115315-details.aspx (accessed 13 April 2015).</mods:identifier>
+    <mods:identifier>Christie's (London), 25 Sept. 2008, http://www.christies.com/lotfinder/books-manuscripts/david-livingstone-5115315-details.aspx (accessed 13 Apr. 2015).</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

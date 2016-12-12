@@ -15,6 +15,12 @@
     </mods:role>
   </mods:name>
   <mods:name type='personal'>
+    <mods:namePart>Moteverde, Emilio Achilles, 1803-1881</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
     <mods:namePart>Figaniere e Morao, Jorge C. de, 1813-1887</mods:namePart>
     <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>

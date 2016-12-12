@@ -22,8 +22,8 @@
     <mods:description>MP for St. Michael's Borough 1826-30 and Taunton 1830-59. Filled several political appointments, including Secretary of State for the Colonies 1855-59.</mods:description>
   </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
-  <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
+  <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
     <mods:dateCreated>2 April 1857</mods:dateCreated>

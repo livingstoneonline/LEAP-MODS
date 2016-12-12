@@ -6,7 +6,7 @@
     <mods:title>Letter to James Young</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Letter to James Young, 22 July, 10 August [1860]</mods:title>
+    <mods:title>Letter to James Young, [10 or] 22 July, 10 August [1860]</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
@@ -26,8 +26,8 @@
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>22 July, 10 August [1860]</mods:dateCreated>
-    <mods:dateCreated encoding='iso8601'>1860-07-22/1860-08-10</mods:dateCreated>
+    <mods:dateCreated>[10 or] 22 July, 10 August [1860]</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1860-07-10/1860-08-10</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>

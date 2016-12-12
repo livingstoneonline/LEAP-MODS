@@ -6,7 +6,7 @@
     <mods:title>Prescription</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Prescription, [20 January -23 May 1857]</mods:title>
+    <mods:title>Prescription, [20 January-23 May 1857]</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
@@ -18,7 +18,7 @@
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>[20 January -23 May 1857]</mods:dateCreated>
+    <mods:dateCreated>[20 January-23 May 1857]</mods:dateCreated>
     <mods:dateCreated encoding='iso8601'>1857-01-20/1857-05-23</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>

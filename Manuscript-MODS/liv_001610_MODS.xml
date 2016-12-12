@@ -57,12 +57,18 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>MS. 10707, ff. 60-61</mods:shelfLocator>
+      <mods:shelfLocator>MS. 10707, 60-61</mods:shelfLocator>
     </mods:location>
     <mods:accessCondition type='use and reproduction'>Images &amp;#169; National Library of Scotland. Creative Commons Share-alike 2.5 UK: Scotland (https://creativecommons.org/licenses/by-nc-sa/2.5/scotland/).</mods:accessCondition>
     <mods:accessCondition type='use and reproduction'>As relevant, &amp;#169; Dr. Neil Imray Livingstone Wilson. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
+    <mods:identifier>J.P.R. Wallis, The Zambezi Expedition of David Livingstone, 1858-1863 (London: Chatto &amp;amp; Windus, 1956), vol. 1, 177.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
     <mods:identifier>Edward C Tabler, The Zambezi Papers of Richard Thornton, Geologist to Livingstone’s Zambezi Expedition, 2 vols. (London: Chatto &amp;amp; Windus, 1963), vol. 2, 220-221.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>George Martelli, Livingstone's River: A History of the Zambesi Expedition, 1858-1864 (London: Chatto &amp;amp; Windus, 1970), 163. </mods:identifier>
   </mods:relatedItem>
 </mods:mods>

@@ -15,6 +15,12 @@
     </mods:role>
   </mods:name>
   <mods:name type='personal'>
+    <mods:namePart>Maclear, Thomas, 1794-1879</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
     <mods:namePart>Porter, William, 1805-1880</mods:namePart>
     <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>

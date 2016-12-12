@@ -65,4 +65,7 @@
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>William Monk, ed., Dr. Livingstone’s Cambridge Lectures (etc.) (Cambridge, England: Deighton, Bell, and Co., and London: Bell and Daldy, Second Edition, 1860), 348-349.</mods:identifier>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Cape Monthly Magazine, 6 (1859), 114-118.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

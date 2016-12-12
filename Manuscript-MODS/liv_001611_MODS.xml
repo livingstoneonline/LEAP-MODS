@@ -19,7 +19,7 @@
     <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
     </mods:role>
-    <mods:description>Fourth son of Robert Moffat. Made a contract with Livingstone to spread the gospel into the Zambezi region. In 1859, he and his wife took up residence among the Matebele, in what today is Zimbabwe.</mods:description>
+    <mods:description>Missionary. Fourth son of Robert Moffat. Made a contract with Livingstone to spread the gospel into the Zambezi region. In 1859, he and his wife took up residence among the Matebele, in what today is Zimbabwe.</mods:description>
   </mods:name>
   <mods:name type='personal'>
     <mods:namePart>Moffat, Emily, 1831-1902</mods:namePart>
@@ -64,7 +64,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>MO 1/1/6, pp. 849-852</mods:shelfLocator>
+      <mods:shelfLocator>MO 1/1/6, 849-852</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>

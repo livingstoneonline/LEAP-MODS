@@ -57,8 +57,14 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>LI 1/1/1, pp. 1436-1454</mods:shelfLocator>
+      <mods:shelfLocator>LI 1/1/1, 1436-1454</mods:shelfLocator>
     </mods:location>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>South African Advertiser and Mail, 25 Aug. 1862</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Journal of the Royal Geographical Society of London (London), 33 (1863), 273.</mods:identifier>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>J.P.R. Wallis, The Zambezi Expedition of David Livingstone, 1858-1863 (London: Chatto &amp;amp; Windus, 1956), vol. 2, 368-371.</mods:identifier>

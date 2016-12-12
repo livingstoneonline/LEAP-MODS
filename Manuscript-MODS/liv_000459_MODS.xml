@@ -66,4 +66,7 @@
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Michael Gelfand, Livingstone the Doctor; His Life and Travels: A Study in Medical History (Oxford: Basil Blackwell, 1957), 20-21.</mods:identifier>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>J.R. Campbell, Livingstone (London: Ernest Benn Ltd, 1929), 61-63.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

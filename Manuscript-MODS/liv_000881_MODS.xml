@@ -30,7 +30,7 @@
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
-      <mods:placeTerm type='text'>Tete or Nyunkwe</mods:placeTerm>
+      <mods:placeTerm type='text'>Tete or Nyunkwe the Farthest Inland Station at Present Occupied by the Portuguese in Eastern Africa</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
@@ -57,7 +57,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>LI 1/1/1, pp. 383-386</mods:shelfLocator>
+      <mods:shelfLocator>LI 1/1/1, 383-386</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
 </mods:mods>

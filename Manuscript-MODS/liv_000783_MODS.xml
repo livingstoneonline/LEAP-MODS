@@ -15,6 +15,12 @@
     </mods:role>
   </mods:name>
   <mods:name type='personal'>
+    <mods:namePart>Smith, Ira</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
     <mods:namePart>Pakington, John S., 1799-1880</mods:namePart>
     <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
@@ -45,7 +51,7 @@
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>
-    <mods:note type='physical details'>Manuscript copy in unknown hand</mods:note>
+    <mods:note type='physical details'>Manuscript copy in another hand</mods:note>
     <mods:extent unit='pages'>4</mods:extent>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
@@ -63,5 +69,8 @@
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Isaac Schapera, ed., David Livingstone: South African Papers, 1849-1853 (Cape Town: Van Riebeck Society, 1974), 59- 62.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Parliamentary Papers (Great Britain), Sess. 1856, LXII, [174] Class A, 86-87.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

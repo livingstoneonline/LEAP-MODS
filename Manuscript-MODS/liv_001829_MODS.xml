@@ -57,10 +57,16 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>LI 1/1/1, pp. 1510-1513</mods:shelfLocator>
+      <mods:shelfLocator>LI 1/1/1, 1510-1513</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>J.P.R. Wallis, The Zambezi Expedition of David Livingstone, 1858-1863 (London: Chatto &amp;amp; Windus, 1956), vol. 2, 371-374.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>The Times (London), 13 Jan. 1863, 5 c. 5</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Proceedings of the Royal Geographical Society of London (London), 8 (1862-3), 52-53.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

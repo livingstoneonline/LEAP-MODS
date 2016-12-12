@@ -65,4 +65,10 @@
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>George Seaver, David Livingstone: His Life and Letters (London: Lutterworth Press, 1957), 167, ex.</mods:identifier>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Sotheby's Cat., 20 Dec. 1937, lot 216.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Sotheby's Cat., 6 Jun. 1950, lot 306.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

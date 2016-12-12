@@ -14,6 +14,7 @@
       <mods:roleTerm type='text'>creator</mods:roleTerm>
     </mods:role>
   </mods:name>
+  <mods:note displayLabel='creator'>One of the creators is unidentified.</mods:note>
   <mods:name type='personal'>
     <mods:namePart>Silva, Custodio Jose da</mods:namePart>
     <mods:role>
@@ -22,8 +23,8 @@
     <mods:description>Governor of Quilimane during the Zanzibar expedition. Rescued by Livingstone and a Portuguese sergeant when wounded under fire at Mazaro in 1858.</mods:description>
   </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
-  <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
+  <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
     <mods:dateCreated>14 July 1862</mods:dateCreated>

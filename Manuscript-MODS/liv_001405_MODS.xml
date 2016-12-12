@@ -65,4 +65,10 @@
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>William Monk, ed., Dr. Livingstone’s Cambridge Lectures (etc.) (Cambridge, England: Deighton, Bell, and Co., and London: Bell and Daldy, Second Edition, 1860), 354-356.</mods:identifier>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Cape Monthly Magazine, 6 (1859), 114-118.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Lyons McLeod, Travels in Eastern Africa, with the Narrative of a Residence in Mozambique, 2 vols. (London: Hurst and Blackett, 1860), vol. 1, 231-234.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

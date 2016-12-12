@@ -66,4 +66,7 @@
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Isaac Schapera, ed., Livingstone’s Missionary Correspondence, 1841-1856 (London: Chatto &amp;amp; Windus, 1961), 30-45.</mods:identifier>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>David Chamberlin, ed., Some Letters from Livingstone, 1840-1872 (London: Oxford University Press, 1940), 42-49.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

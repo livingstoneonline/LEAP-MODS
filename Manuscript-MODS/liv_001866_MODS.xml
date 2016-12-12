@@ -45,7 +45,7 @@
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>
-    <mods:note type='physical details'>Manuscript copy in unknown hand</mods:note>
+    <mods:note type='physical details'>Manuscript copy in another hand</mods:note>
     <mods:extent unit='pages'>4</mods:extent>
     <mods:note>1 folio, folded to create 4 pages, with writing on 4 pages</mods:note>
     <mods:extent unit='mm'>folio</mods:extent>

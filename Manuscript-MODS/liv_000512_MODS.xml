@@ -60,4 +60,10 @@
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Thomas Hughes, David Livingstone (London &amp;amp; New York: Macmillan and Co., 1889), 21-22, ex.</mods:identifier>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Sotheby's Cat., 24 Dec. 1915, lot 495.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Maggs' Cat., Autumn 1920, no. 2353.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

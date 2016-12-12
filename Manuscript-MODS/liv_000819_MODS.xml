@@ -30,7 +30,7 @@
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
-      <mods:placeTerm type='text'>Massangano-Golungo Alto</mods:placeTerm>
+      <mods:placeTerm type='text'>Massangano, Cazengo, Golungo Alto</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
@@ -57,7 +57,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>Add. MS. 37410, ff. 7-14</mods:shelfLocator>
+      <mods:shelfLocator>Add. MS. 37410, 7-14</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
   <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10780</mods:identifier>

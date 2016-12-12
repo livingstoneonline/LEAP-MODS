@@ -3,10 +3,10 @@
   <mods:identifier type='local' displayLabel='master_id'>liv_001455</mods:identifier>
   <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Letters, 0918</mods:identifier>
   <mods:titleInfo>
-    <mods:title>Letter Inclosure No. 2</mods:title>
+    <mods:title>Report on the Navigation of the Zambesi</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Letter Inclosure No. 2, [21-25 July 1859]</mods:title>
+    <mods:title>Report on the Navigation of the Zambesi, [21-25 July 1859]</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
@@ -16,6 +16,8 @@
   </mods:name>
   <mods:note displayLabel='addressee'>The addressee is unknown.</mods:note>
   <mods:genre authority='aat'>letters</mods:genre>
+  <mods:genre authority='aat'>official reports</mods:genre>
+  <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>

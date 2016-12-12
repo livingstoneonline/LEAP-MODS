@@ -66,4 +66,7 @@
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Isaac Schapera, ed., David Livingstone: South African Papers, 1849-1853 (Cape Town: Van Riebeck Society, 1974), 55-59.</mods:identifier>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>J.R. Campbell, Livingstone (London: Ernest Benn Ltd, 1929), 145-148.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

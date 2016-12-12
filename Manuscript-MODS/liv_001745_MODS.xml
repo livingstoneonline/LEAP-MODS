@@ -57,12 +57,15 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>MS. 7792, ff. 5-6</mods:shelfLocator>
+      <mods:shelfLocator>MS. 7792, 5-6</mods:shelfLocator>
     </mods:location>
     <mods:accessCondition type='use and reproduction'>Images &amp;#169; National Library of Scotland. Creative Commons Share-alike 2.5 UK: Scotland (https://creativecommons.org/licenses/by-nc-sa/2.5/scotland/).</mods:accessCondition>
     <mods:accessCondition type='use and reproduction'>As relevant, &amp;#169; Dr. Neil Imray Livingstone Wilson. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>George Smith, Life of Alexander Duff, 2 vols. (London: Hodder &amp;amp; Stoughton, 1879), vol. 2, 457-458.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>James Wells, Stewart of Lovedale: The Life of James Stewart (London: Hodder &amp;amp; Stoughton, Second edition, 1909), 84-85.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

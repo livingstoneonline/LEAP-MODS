@@ -56,7 +56,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>MS. 265621, ff. 19-24</mods:shelfLocator>
+      <mods:shelfLocator>MS. 265621, 19-24</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
   <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10779</mods:identifier>

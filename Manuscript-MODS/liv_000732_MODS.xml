@@ -59,4 +59,7 @@
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>The Atlantic Monthly (Boston, MA), Jul. 1922, 1-5, ex.</mods:identifier>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Bulletin of the American Geographical and Statistical Society of New York, 1 (1852), 48-59. </mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

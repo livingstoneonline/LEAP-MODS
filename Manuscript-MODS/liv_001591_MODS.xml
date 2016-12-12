@@ -19,7 +19,7 @@
     <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
     </mods:role>
-    <mods:description>Commissioned in the Coldstream Guards in 1821. Became Lieut.-Colonel 1832, Colonel 1846, and Major-General 1854. As Commander of the garrison in Mauritius 1855-57, was host to Livingstone during the latter's only visit to that island.</mods:description>
+    <mods:description>Military figure. Commissioned in the Coldstream Guards in 1821. Became Lieut.-Colonel 1832, Colonel 1846, and Major-General 1854. As Commander of the garrison in Mauritius 1855-57, was host to Livingstone during the latter's only visit to that island.</mods:description>
   </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
@@ -57,7 +57,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>Moorsom Album II, p. 44</mods:shelfLocator>
+      <mods:shelfLocator>Moorsom Album II, 44</mods:shelfLocator>
     </mods:location>
     <mods:accessCondition type='use and reproduction'>Images &amp;#169; The Wordsworth Trust. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
     <mods:accessCondition type='use and reproduction'>As relevant, &amp;#169; Dr. Neil Imray Livingstone Wilson. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>

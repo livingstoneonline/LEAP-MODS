@@ -17,6 +17,12 @@
   <mods:name type='personal'>
     <mods:namePart>Young, James, 1811-1883</mods:namePart>
     <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
+    <mods:namePart>Young, James, 1811-1883</mods:namePart>
+    <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
     </mods:role>
     <mods:description>Scottish industrialist who made a fortune distilling paraffin from shale. Met Livingstone at Anderson's College. Was one of Livingstone's three Trustees.</mods:description>

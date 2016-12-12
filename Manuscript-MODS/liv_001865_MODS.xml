@@ -19,7 +19,7 @@
     <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
     </mods:role>
-    <mods:description>Commissioned in the Coldstream Guards in 1821. Became Lieut.-Colonel 1832, Colonel 1846, and Major-General 1854. As Commander of the garrison in Mauritius 1855-57, was host to Livingstone during the latter's only visit to that island.</mods:description>
+    <mods:description>Military figure. Commissioned in the Coldstream Guards in 1821. Became Lieut.-Colonel 1832, Colonel 1846, and Major-General 1854. As Commander of the garrison in Mauritius 1855-57, was host to Livingstone during the latter's only visit to that island.</mods:description>
   </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
   <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
