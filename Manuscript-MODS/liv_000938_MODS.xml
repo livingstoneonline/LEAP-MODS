@@ -1,31 +1,19 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes'?>
 <mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
   <mods:identifier type='local' displayLabel='master_id'>liv_000938</mods:identifier>
-  <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Letters, 0448.2</mods:identifier>
   <mods:titleInfo>
-    <mods:title>Letter to Joseph Robertson</mods:title>
+    <mods:title>Admission Ticket to Ceremony for David Livingstone to Receive the Freedom of the Burgh of Hamilton</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Letter to Joseph Robertson, 31 December 1856</mods:title>
+    <mods:title>Admission Ticket to Ceremony for David Livingstone to Receive the Freedom of the Burgh of Hamilton, 2 January 1857</mods:title>
   </mods:titleInfo>
-  <mods:name type='personal'>
-    <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
-    <mods:role>
-      <mods:roleTerm type='text'>creator</mods:roleTerm>
-    </mods:role>
-  </mods:name>
-  <mods:name type='personal'>
-    <mods:namePart>Robertson, Joseph</mods:namePart>
-    <mods:role>
-      <mods:roleTerm type='text'>addressee</mods:roleTerm>
-    </mods:role>
-  </mods:name>
-  <mods:genre authority='aat'>letters</mods:genre>
-  <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
+  <mods:note displayLabel='creator'>One of the creators is unidentified.</mods:note>
+  <mods:genre authority='aat'>printed materials (object genre)</mods:genre>
+  <mods:genre authority='aat'>admission tickets</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>31 December 1856</mods:dateCreated>
-    <mods:dateCreated encoding='iso8601'>1856-12-31</mods:dateCreated>
+    <mods:dateCreated>2 January 1857</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1857-01-02</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
@@ -43,8 +31,7 @@
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>
-    <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
-    <mods:extent unit='pages'>2</mods:extent>
+    <mods:extent unit='pages'>1</mods:extent>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
     <mods:name type='corporate' authority='local'>
@@ -53,9 +40,6 @@
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
     </mods:name>
-  </mods:relatedItem>
-  <mods:relatedItem type='otherVersion'>
-    <mods:identifier>Phillips' Cat., 20 Sept. 1984, lot 517.</mods:identifier>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Bohnams (London), 13 Nov. 2012, http://www.bonhams.com/auctions/20139/lot/96/ (accessed 13 Apr. 2015).</mods:identifier>
