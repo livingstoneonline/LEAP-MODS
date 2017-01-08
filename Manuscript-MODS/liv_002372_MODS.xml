@@ -58,6 +58,9 @@
     </mods:name>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Sotheby's Cat., 9 Jun. 1936, lot 505.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
     <mods:identifier>Sotheby's Cat., 9 Jun. 1950, lot 310.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

@@ -63,6 +63,9 @@
     <mods:accessCondition type='use and reproduction'>As relevant, &amp;#169; Dr. Neil Imray Livingstone Wilson. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
-    <mods:identifier>Parliamentary Papers (Great Britain), Sess. 1867, LXXIII, [65] Class A, 97.</mods:identifier>
+    <mods:identifier>Parliamentary Papers (Great Britain), Sess. 1867, LXXIII [65] A, 97.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Maggs' Cat., 798 (1950), no. 430.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

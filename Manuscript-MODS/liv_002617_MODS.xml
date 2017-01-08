@@ -60,6 +60,12 @@
     <mods:accessCondition type='use and reproduction'>As relevant, &amp;#169; Dr. Neil Imray Livingstone Wilson. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
-    <mods:identifier>The Times (London), 22 Oct. 1872, 10, c. b.</mods:identifier>
+    <mods:identifier>Proceedings of the Royal Geographical Society of London (London), 16 (1871-72), 440-441.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>The Times (London), 22 Oct. 1872, 10 c. 2.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Anon., The Life and Finding of Dr. Livingstone (London: Dean &amp;amp; Son, 1873), 318-320.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

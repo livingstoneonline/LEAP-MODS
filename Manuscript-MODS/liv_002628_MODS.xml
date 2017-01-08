@@ -60,6 +60,9 @@
     <mods:identifier>Anon., The Life and Finding of Dr. Livingstone (London: Dean &amp;amp; Son, 1873), 481-482.</mods:identifier>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Sotheby's Cat., 27 Feb. 1962, lot 531.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
     <mods:identifier>Invaluable (Christie's, London), 7 Apr. 2004, http://www.invaluable.com/auction-lot/livingstone,-david-1813-1873-.-autograph-letter-437-c-cfh42983a3 (accessed 13 Apr. 2015).</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

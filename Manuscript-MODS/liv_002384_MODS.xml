@@ -61,6 +61,9 @@
   </mods:relatedItem>
   <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10779</mods:identifier>
   <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Maggs' Cat., 1 (Spring, 1958), no. 175.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
     <mods:identifier>Maggs' Cat., 927 (Autumn, 1970), no. 130.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

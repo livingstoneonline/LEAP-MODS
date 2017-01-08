@@ -15,6 +15,9 @@
     </mods:role>
   </mods:name>
   <mods:name type='personal'>
+    <mods:namePart>Gildy, G.</mods:namePart>
+  </mods:name>
+  <mods:name type='personal'>
     <mods:namePart>Fitzgerald, William R.S.V., 1818-1885</mods:namePart>
     <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>

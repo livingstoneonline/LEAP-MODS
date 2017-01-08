@@ -60,4 +60,7 @@
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Proceedings of the Royal Geographical Society of London (London), 16 (1871-72), 433-436.</mods:identifier>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Henry M. Stanley, How I Found Livingstone (etc.) (London: Sampson Low, Marston, Low, &amp; Rivington, 1890), xlviii-lii.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

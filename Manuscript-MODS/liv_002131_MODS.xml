@@ -22,8 +22,7 @@
     <mods:description>Medical Officer and Economic Botanist to Livingstone's Zambezi Expedition. Appointed Surgeon to the British Consulate in Zanzibar in 1865. As H.M. Consul, his skillful diplomacy increased British influence with successive Sultans that resulted in the demise of the East African slave trade.</mods:description>
   </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
-  <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
-  <mods:genre authority='aat'>publications</mods:genre>
+  <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
     <mods:dateCreated>1 December 1864</mods:dateCreated>
@@ -45,9 +44,7 @@
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>
-    <mods:note type='physical details'>Published copy</mods:note>
-    <mods:extent unit='pages'>4</mods:extent>
-    <mods:note>1 folio, folded to create 4 pages, with writing on 4 pages</mods:note>
+    <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
     <mods:name type='corporate' authority='local'>
@@ -59,5 +56,8 @@
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Reginald Foskett, ed., The Zambesi Doctors: David Livingstone’s Letters to John Kirk, 1858-1872 (Edinburgh: Edinburgh University Press, 1964), 92-93.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Invaluable (Christie's, London), 26 February 2004, http://www.invaluable.com/auction-lot/livingstone,-david-1813-1873-.-8-autograph-lette-17-c-qz3g7lgnfq (accessed 21 Dec. 2016).</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

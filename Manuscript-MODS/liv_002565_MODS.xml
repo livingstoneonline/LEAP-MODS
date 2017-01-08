@@ -14,6 +14,7 @@
       <mods:roleTerm type='text'>creator</mods:roleTerm>
     </mods:role>
   </mods:name>
+  <mods:note displayLabel='creator'>One of the creators is unidentified.</mods:note>
   <mods:note displayLabel='addressee'>The addressee is unknown.</mods:note>
   <mods:genre authority='aat'>letters</mods:genre>
   <mods:genre authority='aat'>copies (derivative objects)</mods:genre>

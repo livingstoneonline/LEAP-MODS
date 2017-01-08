@@ -57,6 +57,9 @@
     </mods:name>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Sotheby's Cat., 31 Oct. 1950, lot 240.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
     <mods:identifier>Maggs' Cat., 889 (1963), no. 372.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

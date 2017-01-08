@@ -69,4 +69,7 @@
     <mods:accessCondition type='use and reproduction'>Images &amp;#169; Royal Geographical Society (with IBG). Used by permission for academic purposes only. For non-academic use permission, please contact the Picture Library.</mods:accessCondition>
     <mods:accessCondition type='use and reproduction'>As relevant, &amp;#169; Dr. Neil Imray Livingstone Wilson. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>The Times (London), 27 Sept. 1872, 3 c. 3.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

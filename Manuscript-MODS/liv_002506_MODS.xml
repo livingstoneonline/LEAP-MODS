@@ -51,6 +51,9 @@
     </mods:name>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
-    <mods:identifier>The Times (London), 22 Apr. 1868, 12, c. 2.</mods:identifier>
+    <mods:identifier>The Times (London), 22 Apr. 1868, 12 c. 2.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Christian News (Glasgow), 25 Apr. 1868, 11.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

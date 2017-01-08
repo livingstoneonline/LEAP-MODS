@@ -63,4 +63,10 @@
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Good Words (Edinburgh), Jun. 1868, 354-356.</mods:identifier>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Sotheby's Cat., 16 Feb. 1926, lot 472.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Sotheby's Cat., 6 June 1950, 316.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

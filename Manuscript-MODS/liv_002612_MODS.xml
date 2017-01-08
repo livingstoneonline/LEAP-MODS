@@ -61,6 +61,9 @@
     <mods:accessCondition type='use and reproduction'>Images &amp;#169; Stanley Archives, collection King Baudouin foundation, under trust of RMCA Tervuren. Used by permission.</mods:accessCondition>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
-    <mods:identifier>Henry M Stanley, How I Found Livingstone (etc.) (London: Sampson Low, Marston, Low, and Searle, 1872), 1872. (1872), 628-629.</mods:identifier>
+    <mods:identifier>Henry M. Stanley, How I Found Livingstone (etc.) (London: Sampson Low, Marston, Low, and Searle, 1872), 628-629.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Henry M. Stanley, How I Found Livingstone (etc.) (London: Sampson Low, Marston, Low, &amp; Rivington, 1890), 500-501.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

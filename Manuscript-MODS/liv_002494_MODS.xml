@@ -30,7 +30,7 @@
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
-      <mods:placeTerm type='text'>[East Africa-Lake Nyassa]</mods:placeTerm>
+      <mods:placeTerm type='text'>East Africa, Lat. 11° 18/ South, Long. 37° 10' East</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
@@ -60,6 +60,6 @@
     </mods:location>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
-    <mods:identifier>Parliamentary Papers (Great Britain), Sess. 1868-69, LVI, [145] Class B, 13-17.</mods:identifier>
+    <mods:identifier>Parliamentary Papers (Great Britain), Sess. 1868-69, LVI [145] B, 13-17.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

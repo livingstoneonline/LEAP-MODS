@@ -44,6 +44,7 @@
   <mods:physicalDescription>
     <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
     <mods:extent unit='pages'>1</mods:extent>
+    <mods:note>1 folio, folded to create 2 pages, with writing on 2 pages</mods:note>
     <mods:extent unit='mm'>182 x 115</mods:extent>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
@@ -56,5 +57,8 @@
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Invaluable (Fraser's Autographs, London), 26 Apr. 2012, http://www.invaluable.com/auction-lot/livingstone,-david-180-c-b708749cc2 (accessed 13 Apr. 2015).</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>John Wilson Manuscripts Ltd (Cheltenham), 2016[?], https://www.manuscripts.co.uk/stock/22449.HTM (accessed 21 Dec. 2016)</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

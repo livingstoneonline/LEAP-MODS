@@ -64,4 +64,10 @@
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Proceedings of the Royal Geographical Society of London (London), 14 (1869-70), 8-12.</mods:identifier>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Parliamentary Papers (Great Britain), Sess. 1870, LXI [C-141] B, 13-16.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Mittheilungen aus Justus Perthes' Geographischer Anstalt (Gotha), 1870, 186-189.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

@@ -30,7 +30,7 @@
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
-      <mods:placeTerm type='text'>Bemba</mods:placeTerm>
+      <mods:placeTerm type='text'>Bemba, Lat. 10° 11' South, Long. 31° 50' East</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
@@ -62,5 +62,8 @@
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Proceedings of the Royal Geographical Society of London (London), 12 (1867-68), 177-178.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Parliamentary Papers (Great Britain), Sess. 1868-69, LVI [145] B, 17-18.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

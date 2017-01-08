@@ -53,4 +53,7 @@
     <mods:accessCondition type='use and reproduction'>&amp;#169; David Livingstone Centre. Object images used by permission. May not be reproduced without the express written consent of the National Trust for Scotland, on behalf of the Scottish National Memorial to David Livingstone Trust.</mods:accessCondition>
     <mods:accessCondition type='use and reproduction'>Images of the objects from the David Livingstone Centre are &amp;#169; Roddy Simpson. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>F. Pridmore and D.H. Simpson, "Faithful to the End: The Royal Geographical Society's Livingstone Medals," Numismatic Circular 78 (1970): 192-196.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

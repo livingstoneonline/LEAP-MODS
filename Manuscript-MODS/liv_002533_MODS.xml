@@ -60,4 +60,7 @@
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Proceedings of the Royal Geographical Society of London (London), 14 (1869-70), 13-16, ex.</mods:identifier>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>John Martineau, The Life and Correspondence of Sir Bartle Frere, 2 vols. (London: John Murray, 1895), vol. 2, 115-116.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

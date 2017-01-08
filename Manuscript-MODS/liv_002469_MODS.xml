@@ -30,7 +30,7 @@
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
-      <mods:placeTerm type='text'>Crossing the Line in Long. 49 degrees E.</mods:placeTerm>
+      <mods:placeTerm type='text'>Crossing the Line in Long. 49° E.</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
@@ -64,5 +64,8 @@
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>William Garden Blaikie, The Personal Life of David Livingstone (London: John Murray, 1880), 367-368.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>S. Stuart Starritt, Livingstone the Pioneer (London: The Religious Tract Society, 1927), 121, ex.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

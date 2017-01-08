@@ -64,6 +64,12 @@
     </mods:name>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Cape Monthly Magazine (Cape Town), n.s. 5 (1872), 242-249.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
     <mods:identifier>Proceedings of the Royal Geographical Society of London (London), 17 (1872-73), 69-73.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>William Garden Blaikie, The Personal Life of David Livingstone (London: John Murray, 1880), 426-427.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

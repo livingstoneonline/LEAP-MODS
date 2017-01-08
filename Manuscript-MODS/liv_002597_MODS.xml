@@ -36,12 +36,12 @@
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
     <mods:place>
-      <mods:placeTerm type='text'>Tanzania</mods:placeTerm>
+      <mods:placeTerm type='text'>Tabora Region (Tanzania)</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:subject>
     <mods:cartographics>
-      <mods:coordinates>-6.307,34.854</mods:coordinates>
+      <mods:coordinates>-5.016667,32.800000</mods:coordinates>
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>

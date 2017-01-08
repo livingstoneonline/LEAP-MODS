@@ -57,6 +57,9 @@
     </mods:name>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
+    <mods:identifier>William Garden Blaikie, The Personal Life of David Livingstone (London: John Murray, 1880), 353-354.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
     <mods:identifier>W. Edward Oswell, William Cotton Oswell, Hunter and Explorer, 2 vols. (London: William Heinemann, 1900), vol. 2, 88, ex.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

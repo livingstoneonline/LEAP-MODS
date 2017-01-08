@@ -61,6 +61,9 @@
     </mods:location>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
+    <mods:identifier>The Times (London), 6 Nov. 1869, 5 c. 4.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
     <mods:identifier>Proceedings of the Royal Geographical Society of London (London), 14 (1869-70), 12-13, ex.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

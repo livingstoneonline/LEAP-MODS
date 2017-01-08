@@ -60,6 +60,9 @@
     </mods:location>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
-    <mods:identifier>Parliamentary Papers (Great Britain), Sess. 1867, LXXIII, [66] Class B, 39-40.</mods:identifier>
+    <mods:identifier>Parliamentary Papers (Great Britain), Sess. 1867, LXXIII [66] B, 39-40.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Proceedings of the Royal Geographical Society of London (London), 11 (1866-67), 15-17.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

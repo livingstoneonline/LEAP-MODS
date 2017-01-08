@@ -31,7 +31,7 @@
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
-      <mods:placeTerm type='text'>[Unyanyembe]</mods:placeTerm>
+      <mods:placeTerm type='text'>Unyanyembe, i.e. Sixty Days Smart Marching from the East Coast, Africa</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
@@ -55,6 +55,9 @@
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
     </mods:name>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>New York Herald, 21 Sept. 1872.</mods:identifier>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Norman R. Bennett, ed., “Livingstone’s Letters to William F. Stearns,” African Historical Studies 1, no. 2 (1968): 243–254. 252-253.</mods:identifier>

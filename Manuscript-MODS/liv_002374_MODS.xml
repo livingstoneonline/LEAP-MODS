@@ -22,8 +22,7 @@
     <mods:description>Member of Parliament and writer on colonial affairs.</mods:description>
   </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
-  <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
-  <mods:genre authority='aat'>publications</mods:genre>
+  <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
     <mods:dateCreated>28 July 1865</mods:dateCreated>
@@ -31,7 +30,7 @@
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
-      <mods:placeTerm type='text'>[48 Euston Square, London]</mods:placeTerm>
+      <mods:placeTerm type='text'>48 Euston Square</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
@@ -45,8 +44,9 @@
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>
-    <mods:note type='physical details'>Published copy</mods:note>
+    <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
     <mods:extent unit='pages'>4</mods:extent>
+    <mods:note>1 folio, folded to create 4 pages, with writing on 4 pages</mods:note>
     <mods:extent unit='mm'>8vo</mods:extent>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
@@ -59,5 +59,8 @@
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Rendell Cat., 88, no. 97.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>John Wilson Manuscripts Ltd (Cheltenham), 2016[?], https://www.manuscripts.co.uk/stock/20564.HTM (accessed 21 Dec. 2016).</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

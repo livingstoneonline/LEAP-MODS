@@ -67,6 +67,9 @@
     </mods:location>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
-    <mods:identifier>Parliamentary Papers (Great Britain), Sess. 1868-69, LVI, [145] Class B, 81.</mods:identifier>
+    <mods:identifier>Parliamentary Papers (Great Britain), Sess. 1868-69, LVI [145] B, 81.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Proceedings of the Royal Geographical Society of London (London), 13 (1868-69), 8-9.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

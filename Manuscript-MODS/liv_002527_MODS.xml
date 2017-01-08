@@ -72,4 +72,7 @@
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Proceedings of the Royal Geographical Society of London (London), 14 (1869-70), 8, ex.</mods:identifier>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>The Athenaeum (London), 2194 (13 Nov. 1869), 631, ex.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

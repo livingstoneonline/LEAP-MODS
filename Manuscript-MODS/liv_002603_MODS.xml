@@ -61,6 +61,12 @@
     <mods:accessCondition type='use and reproduction'>Images &amp;#169; The Brenthurst Press (Pty) Ltd, 2014. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
+    <mods:identifier>New York Herald, 27 July 1872.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
     <mods:identifier>Anon., The Life and Finding of Dr. Livingstone (London: Dean &amp;amp; Son, 1873), 225-245.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Sotheby's Cat., 29 June 1939, lot 1488.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

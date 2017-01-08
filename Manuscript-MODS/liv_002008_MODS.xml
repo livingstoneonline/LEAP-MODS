@@ -60,6 +60,9 @@
     <mods:identifier>Myers' Cat., 6 (Spring, 1967) no. 13.</mods:identifier>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Kenneth W. Rendell, 2010, http://www.historical-autographs.com/full-description.aspx?ItemID=9302944 (accessed 21 Dec. 2016).</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
     <mods:identifier>Kenneth W. Rendell, 2015, http://www.kwrendell.com/full-description.aspx?ItemID=9302944 (accessed 13 Apr. 2015 [link no longer valid]).</mods:identifier>
   </mods:relatedItem>
 </mods:mods>
