@@ -59,6 +59,7 @@
       <mods:shelfLocator>ST 1/1/1</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
+  <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10779</mods:identifier>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>J.P.R. Wallis, ed., The Zambesi Journal of James Stewart, 1862-1863, with a Selection from His Correspondence (London: Chatto &amp;amp; Windus, 1952), 238-239.</mods:identifier>
   </mods:relatedItem>

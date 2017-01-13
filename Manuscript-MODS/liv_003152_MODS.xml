@@ -57,6 +57,8 @@
     <mods:location>
       <mods:shelfLocator>DL 4/18/2</mods:shelfLocator>
     </mods:location>
+    <mods:accessCondition type='use and reproduction'>Images &amp;#169; Royal Geographical Society (with IBG). Used by permission for academic purposes only. For non-academic use permission, please contact the Picture Library.</mods:accessCondition>
+    <mods:accessCondition type='use and reproduction'>As relevant, &amp;#169; Dr. Neil Imray Livingstone Wilson. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Proceedings of the Royal Geographical Society of London (London), 18 (1873-74), pp, 267-270.</mods:identifier>

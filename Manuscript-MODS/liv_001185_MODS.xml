@@ -45,7 +45,7 @@
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
     <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n80126084'>
-      <mods:namePart>Musée royal de l'Afrique centrale</mods:namePart>
+      <mods:namePart>Musée Royal de l'Afrique Centrale</mods:namePart>
       <mods:role>
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>

@@ -54,4 +54,7 @@
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Christie's Cat., 4 Apr. 1979, lot 69.</mods:identifier>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Maggs' Cat., 1001 (1979), no. 113.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

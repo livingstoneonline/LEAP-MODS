@@ -50,7 +50,7 @@
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
     <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n80126084'>
-      <mods:namePart>Musée royal de l'Afrique centrale</mods:namePart>
+      <mods:namePart>Musée Royal de l'Afrique Centrale</mods:namePart>
       <mods:role>
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
@@ -59,17 +59,6 @@
       <mods:shelfLocator>Stanley Archives, 478(b)</mods:shelfLocator>
     </mods:location>
     <mods:accessCondition type='use and reproduction'>Images &amp;#169; Stanley Archives, collection King Baudouin foundation, under trust of RMCA Tervuren. Used by permission.</mods:accessCondition>
-  </mods:relatedItem>
-  <mods:relatedItem type='original'>
-    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n81139951'>
-      <mods:namePart>British Library</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:location>
-      <mods:shelfLocator>R.P. 2435 ii (1) [photocopy]</mods:shelfLocator>
-    </mods:location>
   </mods:relatedItem>
   <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10705</mods:identifier>
 </mods:mods>

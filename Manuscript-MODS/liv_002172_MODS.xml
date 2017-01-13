@@ -61,4 +61,7 @@
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Sotheby's Cat., 22 Jun. 1955, lot 652.</mods:identifier>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Parke-Bernet's Cat., 28 Mar. 1872, lot 207.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

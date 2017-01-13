@@ -60,6 +60,7 @@
       <mods:shelfLocator>LI 1/1/1, 1041-1044</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
+  <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10779</mods:identifier>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>William Garden Blaikie, The Personal Life of David Livingstone (London: John Murray, 1880), 262, ex.</mods:identifier>
   </mods:relatedItem>

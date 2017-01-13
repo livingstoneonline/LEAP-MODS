@@ -61,4 +61,7 @@
     </mods:location>
   </mods:relatedItem>
   <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 20313</mods:identifier>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>David Lay Auctions, Penzance, 10 May 1983, lot B 426.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

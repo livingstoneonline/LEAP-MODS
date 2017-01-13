@@ -57,6 +57,9 @@
     </mods:name>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
+    <mods:identifier>James Stewart, Livingstonia Its Origin (Edinburgh, Privately Printed, 1894)</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
     <mods:identifier>James Wells, Stewart of Lovedale: The Life of James Stewart (London: Hodder &amp;amp; Stoughton, Second edition, 1909), 87.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

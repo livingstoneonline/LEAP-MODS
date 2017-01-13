@@ -58,6 +58,7 @@
     <mods:location>
       <mods:shelfLocator>Misc. MSS. Liv.</mods:shelfLocator>
     </mods:location>
+    <mods:accessCondition type='use and reproduction'>Images &amp;#169; Special Collections and Archives, University of Cape Town Libraries. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
   </mods:relatedItem>
   <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10779</mods:identifier>
 </mods:mods>

@@ -17,6 +17,12 @@
   <mods:name type='personal'>
     <mods:namePart>Meller, Charles J., 1836-1869</mods:namePart>
     <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
+    <mods:namePart>Meller, Charles J., 1836-1869</mods:namePart>
+    <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
     </mods:role>
     <mods:description>Surgeon of the "Pioneer." Served in the Zambezi region 1861-63. Was Vice-Consul in Madagascar 1865-66, and was associated with botanical gardens in Mauritius and Queensland.</mods:description>

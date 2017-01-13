@@ -44,14 +44,14 @@
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>
-    <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
+    <mods:note type='physical details'>Incomplete manuscript in creator's hand</mods:note>
     <mods:extent unit='pages'>6</mods:extent>
     <mods:note>3 folia, folded to create 6 pages, with writing on 6 pages</mods:note>
     <mods:extent unit='mm'>folio</mods:extent>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
     <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n80126084'>
-      <mods:namePart>Musée royal de l'Afrique centrale</mods:namePart>
+      <mods:namePart>Musée Royal de l'Afrique Centrale</mods:namePart>
       <mods:role>
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
@@ -65,6 +65,6 @@
     <mods:identifier>The Times (London), 7 Apr. 1874, 5 c. 3, ex.</mods:identifier>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
-    <mods:identifier>Henry M Stanley, How I Found Livingstone (etc.) (London: Sampson Low, Marston, Low, &amp; Rivington, 1890), lxx-lxxi.</mods:identifier>
+    <mods:identifier>Henry M. Stanley, How I Found Livingstone (etc.) (London: Sampson Low, Marston, Low, &amp; Rivington, 1890), lxx-lxxi.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

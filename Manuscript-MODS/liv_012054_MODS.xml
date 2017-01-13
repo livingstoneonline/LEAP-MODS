@@ -14,7 +14,7 @@
     </mods:role>
   </mods:name>
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
-  <mods:genre authority='aat'>reviews (documents)</mods:genre>
+  <mods:genre authority='aat'>reviews (document genre)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
     <mods:dateCreated>7 February 1857</mods:dateCreated>

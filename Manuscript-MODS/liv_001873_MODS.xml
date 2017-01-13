@@ -29,7 +29,7 @@
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
-      <mods:placeTerm type='text'>River Shire</mods:placeTerm>
+      <mods:placeTerm type='text'>River Shire; Elephant Marsh</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
@@ -54,6 +54,9 @@
     </mods:name>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
-    <mods:identifier>Medical Times and Gazette (London), 1 Aug. 1863, 127-128.</mods:identifier>
+    <mods:identifier>Medical Times &amp; Gazette, 1 Aug. 1863, 127-128.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>The Times (London), 7 Aug. 1863, 6 c. 3.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

@@ -59,4 +59,5 @@
       <mods:shelfLocator>LI 1/1/1, 2070-2073</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
+  <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10779</mods:identifier>
 </mods:mods>

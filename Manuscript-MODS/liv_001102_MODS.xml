@@ -60,4 +60,7 @@
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Christie's Cat., 1 Jul. 1970, lot 24.</mods:identifier>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Sawyer's Cat., 299 (1978), no. 60.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

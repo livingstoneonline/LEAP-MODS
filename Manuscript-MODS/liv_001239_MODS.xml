@@ -30,7 +30,7 @@
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
-      <mods:placeTerm type='text'>[50 Albemarle Street or 18 Hart St., London]</mods:placeTerm>
+      <mods:placeTerm type='text'>[50 Albemarle St. or 18 Hart St., London]</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>

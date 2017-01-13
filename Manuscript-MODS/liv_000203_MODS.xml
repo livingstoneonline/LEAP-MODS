@@ -3,10 +3,10 @@
   <mods:identifier type='local' displayLabel='master_id'>liv_000203</mods:identifier>
   <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Field Diaries, 37</mods:identifier>
   <mods:titleInfo>
-    <mods:title>Fragment of 1870 Field Diary (XIV)</mods:title>
+    <mods:title>Fragment of 1870 Field Diary (XIV-[XIV])</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Fragment of 1870 Field Diary (XIV), 13 October 1870</mods:title>
+    <mods:title>Fragment of 1870 Field Diary (XIV-[XIV]), 13 October 1870</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>

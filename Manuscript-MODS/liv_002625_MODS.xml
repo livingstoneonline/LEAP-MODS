@@ -59,4 +59,7 @@
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Dr. Macaulay, Livingstone Anecdotes (London: Religious Tract Society, 1886), 121-122.</mods:identifier>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Rev. Dr. [Robert] Moffat, "David Livingstone," The Sunday at Home (London), 1061 (29 Aug. 1874), 551.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

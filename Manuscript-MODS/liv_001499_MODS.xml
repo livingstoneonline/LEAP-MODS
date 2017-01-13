@@ -51,7 +51,7 @@
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
     <mods:name type='corporate' authority='local'>
-      <mods:namePart>Foskett Collection</mods:namePart>
+      <mods:namePart>Private owner</mods:namePart>
       <mods:role>
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
@@ -60,5 +60,8 @@
   <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 20313</mods:identifier>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Reginald Foskett, ed., The Zambesi Doctors: David Livingstone’s Letters to John Kirk, 1858-1872 (Edinburgh: Edinburgh University Press, 1964), 60.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>John Wilson's Cat., June 1980.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

@@ -30,17 +30,25 @@
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
-      <mods:placeTerm type='text'>At sea</mods:placeTerm>
+      <mods:placeTerm type='text'>At sea; 40 miles off Bombay; [India]</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
     <mods:place>
       <mods:placeTerm type='text'>Indian Ocean</mods:placeTerm>
     </mods:place>
+    <mods:place>
+      <mods:placeTerm type='text'>Mumbai (India)</mods:placeTerm>
+    </mods:place>
   </mods:originInfo>
   <mods:subject>
     <mods:cartographics>
       <mods:coordinates>-6,64</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>18.975, 72.825833</mods:coordinates>
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>

@@ -22,6 +22,7 @@
     <mods:description>Missionary of the London Missionary Society in South Africa 1816-70. Translated the Bible into Setswana, the first complete translation into a Bantu language. Influenced Livingstone to go to Africa and became his father-in-law in 1845.</mods:description>
   </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
+  <mods:genre authority='aat'>fragments (object portions)</mods:genre>
   <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
   <mods:genre authority='aat'>publications</mods:genre>
   <mods:originInfo>

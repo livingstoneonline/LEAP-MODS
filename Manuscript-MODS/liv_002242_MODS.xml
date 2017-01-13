@@ -50,17 +50,12 @@
     <mods:extent unit='mm'>180 x 112</mods:extent>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
-    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n80044899'>
-      <mods:namePart>National Library of Scotland</mods:namePart>
+    <mods:name type='corporate' authority='local'>
+      <mods:namePart>Private owner</mods:namePart>
       <mods:role>
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:location>
-      <mods:shelfLocator>Acc. 9942, 23r-23v</mods:shelfLocator>
-    </mods:location>
-    <mods:accessCondition type='use and reproduction'>Images &amp;#169; National Library of Scotland. Creative Commons Share-alike 2.5 UK: Scotland (https://creativecommons.org/licenses/by-nc-sa/2.5/scotland/).</mods:accessCondition>
-    <mods:accessCondition type='use and reproduction'>As relevant, &amp;#169; Dr. Neil Imray Livingstone Wilson. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Reginald Foskett, ed., The Zambesi Doctors: David Livingstone’s Letters to John Kirk, 1858-1872 (Edinburgh: Edinburgh University Press, 1964), 109-110.</mods:identifier>

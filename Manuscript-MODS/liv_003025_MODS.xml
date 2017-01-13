@@ -51,7 +51,7 @@
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
     <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n80126084'>
-      <mods:namePart>Musée royal de l'Afrique centrale</mods:namePart>
+      <mods:namePart>Musée Royal de l'Afrique Centrale</mods:namePart>
       <mods:role>
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
@@ -63,5 +63,11 @@
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>The Times (London), 10 Aug. 1874, 10 c. 1.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Cape Monthly Magazine (Cape Town), n.s. 9 (1874), 57-63.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>La Revue Scientifique de la France et de l'Etranger (Revue des Cours Scientifiques, 2e Série), 13 (1874), 1005-1015.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>

@@ -30,17 +30,25 @@
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
-      <mods:placeTerm type='text'>Ujiji</mods:placeTerm>
+      <mods:placeTerm type='text'>Ujiji; Unyanyembe</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
     <mods:place>
       <mods:placeTerm type='text'>Ujiji (Tanzania)</mods:placeTerm>
     </mods:place>
+    <mods:place>
+      <mods:placeTerm type='text'>Tabora Region (Tanzania)</mods:placeTerm>
+    </mods:place>
   </mods:originInfo>
   <mods:subject>
     <mods:cartographics>
       <mods:coordinates>-4.9,29.683333</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>-5.016667,32.800000</mods:coordinates>
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>

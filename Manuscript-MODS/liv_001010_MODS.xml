@@ -22,7 +22,6 @@
     <mods:description>Barrister and member of the Society of Friends whom Livingstone met in 1857 and corresponded with for the rest of his life. Was a friend of the Moffats. Mary Livingstone and her children often stayed in his home in Kendal.</mods:description>
   </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
-  <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
@@ -45,7 +44,7 @@
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>
-    <mods:note type='physical details'>Photocopy of manuscript copy in unknown hand</mods:note>
+    <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
     <mods:extent unit='pages'>2</mods:extent>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>

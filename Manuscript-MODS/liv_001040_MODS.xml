@@ -51,7 +51,7 @@
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
     <mods:name type='corporate' authority='local'>
-      <mods:namePart>Société de géographie (France). Bibliothèque</mods:namePart>
+      <mods:namePart>Société de Géographie (France). Bibliothèque</mods:namePart>
       <mods:role>
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>

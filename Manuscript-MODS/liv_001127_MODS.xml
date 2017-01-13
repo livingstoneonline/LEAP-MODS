@@ -63,4 +63,7 @@
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Sotheby's Cat., 7 Dec. 1976, lot 409.</mods:identifier>
   </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Maggs' Cat., 988 (Spr. 1978), no. 109.</mods:identifier>
+  </mods:relatedItem>
 </mods:mods>

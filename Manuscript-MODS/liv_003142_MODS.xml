@@ -57,6 +57,8 @@
     <mods:location>
       <mods:shelfLocator>Archives, DL 4/4/5</mods:shelfLocator>
     </mods:location>
+    <mods:accessCondition type='use and reproduction'>Images &amp;#169; Royal Geographical Society (with IBG). Used by permission for academic purposes only. For non-academic use permission, please contact the Picture Library.</mods:accessCondition>
+    <mods:accessCondition type='use and reproduction'>As relevant, &amp;#169; Dr. Neil Imray Livingstone Wilson. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Parliamentary Papers (Great Britain), Sess. 1868-69, LVI [145] B, 67-68.</mods:identifier>
