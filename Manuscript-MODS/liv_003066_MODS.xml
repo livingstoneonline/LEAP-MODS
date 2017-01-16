@@ -2,10 +2,10 @@
 <mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
   <mods:identifier type='local' displayLabel='master_id'>liv_003066</mods:identifier>
   <mods:titleInfo>
-    <mods:title>Information Leaflet Accompanying the Commemorative Envelope and Stamp Marking the Centenary of David Livingstone’s Death</mods:title>
+    <mods:title>Information Leaflet Accompanying the Commemorative Envelope and Stamp Marking the Centenary of David Livingstone's Death</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Information Leaflet Accompanying the Commemorative Envelope and Stamp Marking the Centenary of David Livingstone’s Death, 2 April 1873</mods:title>
+    <mods:title>Information Leaflet Accompanying the Commemorative Envelope and Stamp Marking the Centenary of David Livingstone's Death, 2 April 1873</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>Post &amp; Telecommunications Corporation</mods:namePart>
