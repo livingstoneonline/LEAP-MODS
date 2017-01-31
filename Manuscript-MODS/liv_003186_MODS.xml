@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
+  <mods:identifier type='local' displayLabel='master_id'>liv_003186</mods:identifier>
+  <mods:titleInfo>
+    <mods:title>Stone Hand Mill for Grinding Corn, Obtained by David Livingstone from Chief Chibisa</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type='alternative'>
+    <mods:title>Stone Hand Mill for Grinding Corn, Obtained by David Livingstone from Chief Chibisa, [mid-19th century]</mods:title>
+  </mods:titleInfo>
+  <mods:note displayLabel='creator'>One of the creators is unidentified.</mods:note>
+  <mods:genre authority='aat'>mills (equipment)</mods:genre>
+  <mods:originInfo>
+    <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
+    <mods:dateCreated>[mid-19th century]</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1850</mods:dateCreated>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='Livingstone'>
+    <mods:place>
+      <mods:placeTerm type='text'>Lower Shire River Valley, Malawi</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>-17.693333,35.315278</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:physicalDescription>
+    <mods:extent unit='pages'>1</mods:extent>
+  </mods:physicalDescription>
+  <mods:relatedItem type='original'>
+    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n89641273'>
+      <mods:namePart>National Museums of Scotland</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:location>
+      <mods:shelfLocator>A.762.1</mods:shelfLocator>
+    </mods:location>
+    <mods:accessCondition type='use and reproduction'>Images &amp;#169; National Museums Scotland. Used by permission. Any form of reproduction, transmission, performance, dispaly, rental, lending, or storage in any retrieval system without the written consent of the copyright holders is prohibited. Downloading the images for unse by third parties and end users is strictly prohibited, except for private study. Downloading of images for commercial purposes will be treated as a serious breach of copyright and strong legal action will be taken by National Museums Scotland.</mods:accessCondition>
+  </mods:relatedItem>
+</mods:mods>
