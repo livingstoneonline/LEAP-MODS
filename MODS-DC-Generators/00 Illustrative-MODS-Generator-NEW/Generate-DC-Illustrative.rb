@@ -2,7 +2,7 @@
 require 'fileutils'
 require 'mini_exiftool'
 
-@csvfile = "Illustrative_Images_DC13.csv"
+@csvfile = "Illustrative_Images_DC14.csv"
 
 @dirmap = Hash.new
 
