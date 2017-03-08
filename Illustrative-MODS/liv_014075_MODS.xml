@@ -8,7 +8,7 @@
     <mods:title>An image of two pages of Sir John Franklin's 1821 Field Diary (National Library of Scotland MS. 42237), 2010-2011</mods:title>
   </mods:titleInfo>
   <mods:name type='personal' authority='local'>
-    <mods:namePart>Franklin, John, 1786-1847</mods:namePart>
+    <mods:namePart>Franklin, John, 1786-1847 </mods:namePart>
     <mods:role>
       <mods:roleTerm type='text'>creator</mods:roleTerm>
     </mods:role>

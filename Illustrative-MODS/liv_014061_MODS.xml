@@ -22,5 +22,5 @@
     <mods:dateCreated encoding='iso8601'>2010</mods:dateCreated>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
   </mods:originInfo>
-  <mods:accessCondition type='use and reproduction'>Copyright Callum Bennetts - Maverick Photo Agency. Used by permission.</mods:accessCondition>
+  <mods:accessCondition type='use and reproduction'>&amp;#169; Callum Bennetts - Maverick Photo Agency. Used by permission.</mods:accessCondition>
 </mods:mods>
