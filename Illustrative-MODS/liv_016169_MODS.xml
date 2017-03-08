@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
+  <mods:identifier type='local' displayLabel='master_id'>liv_016169</mods:identifier>
+  <mods:titleInfo>
+    <mods:title>A processed spectral image of a page of David Livingstone's 1871 Field Diary (CVII spectral_ratio), detail</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type='alternative'>
+    <mods:title>A processed spectral image of a page of David Livingstone's 1871 Field Diary (CVII spectral_ratio), detail, 2010-2011</mods:title>
+  </mods:titleInfo>
+  <mods:name type='personal' authority='local'>
+    <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre authority='aat'>images (object genre)</mods:genre>
+  <mods:physicalDescription>
+    <mods:note>1 image</mods:note>
+  </mods:physicalDescription>
+  <mods:originInfo>
+    <mods:dateCreated>2010-2011</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>2010/2011</mods:dateCreated>
+    <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
+  </mods:originInfo>
+  <mods:relatedItem type='original'>
+    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/no2009190108'>
+      <mods:namePart>David Livingstone Centre</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+  </mods:relatedItem>
+  <mods:accessCondition type='use and reproduction'>&amp;#169; David Livingstone Centre, Blantyre. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/). As relevant, &amp;#169; Dr. Neil Imray Livingstone Wilson. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
+</mods:mods>
