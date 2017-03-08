@@ -23,12 +23,12 @@
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
   </mods:originInfo>
   <mods:relatedItem type='original'>
-    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/no99000901'>
+    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/no99000897'>
       <mods:namePart>University of Strathclyde. Andersonian Library</mods:namePart>
       <mods:role>
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
     </mods:name>
   </mods:relatedItem>
-  <mods:accessCondition type='use and reproduction'>&amp;#169; University of Strathclyde Library, Department of Archives and Special Collections. Licensed for non-commercial research and private study.</mods:accessCondition>
+  <mods:accessCondition type='use and reproduction'>&amp;#169; University of Strathclyde Library, Department of Archives and Special Collections.d for non-commercial research and private study.</mods:accessCondition>
 </mods:mods>

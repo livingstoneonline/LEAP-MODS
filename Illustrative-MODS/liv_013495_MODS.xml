@@ -18,7 +18,7 @@
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
   </mods:originInfo>
   <mods:relatedItem type='original'>
-    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n80152923'>
+    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n80152919'>
       <mods:namePart>Royal Geographical Society (Great Britain)</mods:namePart>
       <mods:role>
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>

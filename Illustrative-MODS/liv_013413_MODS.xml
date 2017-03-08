@@ -23,12 +23,12 @@
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
   </mods:originInfo>
   <mods:relatedItem type='original'>
-    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n84067870'>
+    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n84067847'>
       <mods:namePart>Wellcome Institute for the History of Medicine. Library</mods:namePart>
       <mods:role>
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
     </mods:name>
   </mods:relatedItem>
-  <mods:accessCondition type='use and reproduction'>&amp;#169; Wellcome Library, London. Licensed for use under the Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/).</mods:accessCondition>
+  <mods:accessCondition type='use and reproduction'>&amp;#169; Wellcome Library, London. Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/).</mods:accessCondition>
 </mods:mods>
