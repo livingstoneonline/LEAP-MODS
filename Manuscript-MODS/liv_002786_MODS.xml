@@ -49,7 +49,7 @@
     <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
-    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n50064188 '>
+    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n50064188'>
       <mods:namePart>United Society for the Propagation of the Gospel</mods:namePart>
       <mods:role>
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>

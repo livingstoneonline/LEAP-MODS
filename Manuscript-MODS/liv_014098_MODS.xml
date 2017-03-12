@@ -1,12 +1,11 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes'?>
 <mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
-  <mods:identifier type='local' displayLabel='master_id'>liv_002953</mods:identifier>
-  <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Papers and Reports, 28</mods:identifier>
+  <mods:identifier type='local' displayLabel='master_id'>liv_014098</mods:identifier>
   <mods:titleInfo>
-    <mods:title>Missions in Africa and Elsewhere</mods:title>
+    <mods:title>A Portion of a Page of David Livingstone's 1871 Field Diary (CXVII). Facsimile from the David Livingstone's Last Journals (1874,2:opposite 114)</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Missions in Africa and Elsewhere, [mid 1865]</mods:title>
+    <mods:title>A Portion of a Page of David Livingstone's 1871 Field Diary (CXVII). Facsimile from the David Livingstone's Last Journals (1874,2:opposite 114), 1874</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
@@ -14,13 +13,26 @@
       <mods:roleTerm type='text'>creator</mods:roleTerm>
     </mods:role>
   </mods:name>
-  <mods:genre authority='aat'>essays</mods:genre>
+  <mods:name type='personal'>
+    <mods:namePart>Waller, Horace, 1833-1896</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
+    <mods:namePart>Hodson, Cooper</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre authority='aat'>facsimiles (reproductions)</mods:genre>
+  <mods:genre authority='aat'>diaries</mods:genre>
+  <mods:genre authority='aat'>books</mods:genre>
   <mods:genre authority='aat'>publications</mods:genre>
-  <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>[mid 1865]</mods:dateCreated>
-    <mods:dateCreated encoding='iso8601'>1865</mods:dateCreated>
+    <mods:dateCreated>1874</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1874</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
@@ -41,14 +53,12 @@
     <mods:note type='physical details'>Published copy</mods:note>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
-    <mods:name type='corporate' authority='local'>
-      <mods:namePart>Private owner</mods:namePart>
+    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n80044899'>
+      <mods:namePart>National Library of Scotland</mods:namePart>
       <mods:role>
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
     </mods:name>
-  </mods:relatedItem>
-  <mods:relatedItem type='otherVersion'>
-    <mods:identifier>Evangelical Christendom, N.S., vol. 2 (Oct. 1865), 469-473.</mods:identifier>
+    <mods:accessCondition type='use and reproduction'>Images &amp;#169; National Library of Scotland. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
   </mods:relatedItem>
 </mods:mods>

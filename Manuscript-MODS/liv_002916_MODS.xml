@@ -6,7 +6,7 @@
     <mods:title>Letter to [?] Percy</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Letter to [?] Percy, October-February 1857, or May or August 1865 </mods:title>
+    <mods:title>Letter to [?] Percy, October-February 1857, or May or August 1865</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
@@ -24,7 +24,7 @@
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>October-February 1857, or May or August 1865 </mods:dateCreated>
+    <mods:dateCreated>October-February 1857, or May or August 1865</mods:dateCreated>
     <mods:dateCreated encoding='iso8601'>1857-10/1865-08</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>

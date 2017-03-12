@@ -19,7 +19,7 @@
     <mods:role>
       <mods:roleTerm type='text'>addressee</mods:roleTerm>
     </mods:role>
-    <mods:description>Barrister. Educated at Eton and Christ Church, Oxford. Succeeded as 3rd Baron Colchester in 1867. </mods:description>
+    <mods:description>Barrister. Educated at Eton and Christ Church, Oxford. Succeeded as 3rd Baron Colchester in 1867.</mods:description>
   </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>

@@ -46,7 +46,7 @@
   </mods:subject>
   <mods:physicalDescription>
     <mods:note type='physical details'>Published copy</mods:note>
-    <mods:extent unit='pages'>8 + 346 + 20 + map </mods:extent>
+    <mods:extent unit='pages'>8 + 346 + 20 + map</mods:extent>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
     <mods:name type='corporate' authority='local'>
