@@ -2,10 +2,10 @@
 <mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
   <mods:identifier type='local' displayLabel='master_id'>liv_014099</mods:identifier>
   <mods:titleInfo>
-    <mods:title>The Standard (London), 24 November 1869. Clean Copy of the Same Issue Used by David Livingstone to Create the 1871 Field Diary</mods:title>
+    <mods:title>The Standard (London), 24 November 1869. Clean Copy of the Issue Used by David Livingstone to Create the 1871 Field Diary</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>The Standard (London), 24 November 1869. Clean Copy of the Same Issue Used by David Livingstone to Create the 1871 Field Diary</mods:title>
+    <mods:title>The Standard (London), 24 November 1869. Clean Copy of the Issue Used by David Livingstone to Create the 1871 Field Diary</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>The Standard</mods:namePart>
