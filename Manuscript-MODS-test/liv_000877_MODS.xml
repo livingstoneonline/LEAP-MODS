@@ -14,7 +14,7 @@
       <mods:roleTerm type='text'>creator</mods:roleTerm>
     </mods:role>
   </mods:name>
-    <mods:name type='personal'>
+  <mods:name type='personal'>
     <mods:namePart>Livingstone, Agnes 3, 1847-1912</mods:namePart>
     <mods:role>
       <mods:roleTerm type='text'>creator</mods:roleTerm>
