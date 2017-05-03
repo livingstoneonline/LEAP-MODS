@@ -56,6 +56,9 @@
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
     </mods:name>
+    <mods:location>
+      <mods:shelfLocator>No shelfmark</mods:shelfLocator>
+    </mods:location>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Sotheby's Cat., 6 Jun. 1950, lot 308.</mods:identifier>

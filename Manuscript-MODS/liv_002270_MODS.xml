@@ -45,8 +45,8 @@
   </mods:subject>
   <mods:physicalDescription>
     <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
-    <mods:extent unit='pages'>6</mods:extent>
-    <mods:note>2 folia, folded to create 6 pages, with writing on 6 pages</mods:note>
+    <mods:extent unit='pages'>4</mods:extent>
+    <mods:note>1 folia, folded to create 4 pages, with writing on 4 pages</mods:note>
     <mods:extent unit='mm'>179 x 113</mods:extent>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
@@ -57,7 +57,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>G5</mods:shelfLocator>
+      <mods:shelfLocator>G17/IB32</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
 </mods:mods>

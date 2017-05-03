@@ -22,6 +22,11 @@
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
+      <mods:placeTerm type='text'>New York</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='LoC'>
+    <mods:place>
       <mods:placeTerm type='text'>New York (City)</mods:placeTerm>
     </mods:place>
   </mods:originInfo>

@@ -6,7 +6,7 @@
     <mods:title>Letter to Adam Sedgwick</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Letter to Adam Sedgwick, 24 August 1866, 1 February 1867</mods:title>
+    <mods:title>Letter to Adam Sedgwick, 24 August 1866</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
@@ -25,8 +25,8 @@
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>24 August 1866, 1 February 1867</mods:dateCreated>
-    <mods:dateCreated encoding='iso8601'>1866-08-24/1867-02-01</mods:dateCreated>
+    <mods:dateCreated>24 August 1866</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1866-08-24</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
@@ -57,7 +57,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>On display</mods:shelfLocator>
+      <mods:shelfLocator>No shelfmark</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
   <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10779</mods:identifier>

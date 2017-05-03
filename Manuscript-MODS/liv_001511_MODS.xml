@@ -57,7 +57,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>On display</mods:shelfLocator>
+      <mods:shelfLocator>No shelfmark</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
   <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10779</mods:identifier>

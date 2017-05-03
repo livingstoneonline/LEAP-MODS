@@ -6,7 +6,7 @@
     <mods:title>Letter to William C. Oswell</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Letter to William C. Oswell, 3, 6 April [1865]</mods:title>
+    <mods:title>Letter to William C. Oswell, 3 April [1865]</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
@@ -25,8 +25,8 @@
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>3, 6 April [1865]</mods:dateCreated>
-    <mods:dateCreated encoding='iso8601'>1865-04-03/1865-04-03</mods:dateCreated>
+    <mods:dateCreated>3 April [1865]</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1865-04-03</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
@@ -57,7 +57,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>G5</mods:shelfLocator>
+      <mods:shelfLocator>G17/IB22</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
 </mods:mods>
