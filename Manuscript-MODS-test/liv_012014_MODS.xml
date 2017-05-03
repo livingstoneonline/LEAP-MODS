@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
+  <mods:identifier type='local' displayLabel='master_id'>liv_012014</mods:identifier>
+  <mods:titleInfo>
+    <mods:title>The Pioneer at Anchor in Pomony Harbor, Johanna. Livingstone and Kirk Were on Board and They Were about to Start for the Rovooma River to Ascertain if It Communicated with Lake Nyassa in Central Africa. 3 Sep[tember]. [18]62.</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type='alternative'>
+    <mods:title>The Pioneer at Anchor in Pomony Harbor, Johanna. Livingstone and Kirk Were on Board and They Were about to Start for the Rovooma River to Ascertain if It Communicated with Lake Nyassa in Central Africa. 3 Sep[tember]. [18]62.</mods:title>
+  </mods:titleInfo>
+  <mods:name type='personal'>
+    <mods:namePart>Mitchell, Thomas</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre authority='aat'>watercolors (paintings)</mods:genre>
+  <mods:originInfo>
+    <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
+    <mods:dateCreated>3 September 1862</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1862-09-03</mods:dateCreated>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='Livingstone'>
+    <mods:place>
+      <mods:placeTerm type='text'>[Britain]</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='LoC'>
+    <mods:place>
+      <mods:placeTerm type='text'>Great Britain</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>53.214587,-1.665579</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:physicalDescription>
+    <mods:extent unit='pages'>1</mods:extent>
+    <mods:extent unit='mm'>152 x 241</mods:extent>
+  </mods:physicalDescription>
+  <mods:relatedItem type='original'>
+    <mods:name type='corporate' authority='local'>
+      <mods:namePart>Smithsonian Institution. Libraries. Joseph F. Cullman 3rd Library of Natural History</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:location>
+      <mods:shelfLocator>Art 40</mods:shelfLocator>
+    </mods:location>
+    <mods:accessCondition type='use and reproduction'>Images courtesy of the Smithsonian Libraries, Washington, D.C.</mods:accessCondition>
+  </mods:relatedItem>
+</mods:mods>

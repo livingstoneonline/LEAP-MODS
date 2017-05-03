@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
+  <mods:identifier type='local' displayLabel='master_id'>liv_012056</mods:identifier>
+  <mods:titleInfo>
+    <mods:title>Testimony (English Translation of Swahili Manuscript)</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type='alternative'>
+    <mods:title>Testimony (English Translation of Swahili Manuscript), 12 November 1890</mods:title>
+  </mods:titleInfo>
+  <mods:name type='personal'>
+    <mods:namePart>Saleh Bin Osman</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
+    <mods:namePart>Glave, Edward J., 1863-1895</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre authority='aat'>testimonies</mods:genre>
+  <mods:genre authority='aat'>translations (documents)</mods:genre>
+  <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
+  <mods:genre authority='aat'>autobiographies (documents)</mods:genre>
+  <mods:originInfo>
+    <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
+    <mods:dateCreated>12 November 1890</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1890-11-12</mods:dateCreated>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='Livingstone'>
+    <mods:place>
+      <mods:placeTerm type='text'>New York</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='LoC'>
+    <mods:place>
+      <mods:placeTerm type='text'>New York (City)</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>40.7127,-74.0059</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:physicalDescription>
+    <mods:note type='physical details'>Complete manuscript in another hand</mods:note>
+    <mods:extent unit='pages'>66</mods:extent>
+    <mods:note>33 folia, folded to create 66 pages, with writing on 33 pages</mods:note>
+  </mods:physicalDescription>
+  <mods:relatedItem type='original'>
+    <mods:name type='corporate' authority='local'>
+      <mods:namePart>Smithsonian Institution. Libraries. Joseph F. Cullman 3rd Library of Natural History</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:location>
+      <mods:shelfLocator>M055</mods:shelfLocator>
+    </mods:location>
+    <mods:accessCondition type='use and reproduction'>Images courtesy of the Smithsonian Libraries, Washington, D.C.</mods:accessCondition>
+  </mods:relatedItem>
+</mods:mods>

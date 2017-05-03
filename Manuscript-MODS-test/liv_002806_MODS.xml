@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
+  <mods:identifier type='local' displayLabel='master_id'>liv_002806</mods:identifier>
+  <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Books, 02 (02)</mods:identifier>
+  <mods:titleInfo>
+    <mods:title>Signed Copy of Analysis of the Language of the Bechuanas</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type='alternative'>
+    <mods:title>Signed Copy of Analysis of the Language of the Bechuanas, 8 March 1858</mods:title>
+  </mods:titleInfo>
+  <mods:name type='personal'>
+    <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
+    <mods:namePart>Daubeny, Charles G.B., 1795-1867</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>addressee</mods:roleTerm>
+    </mods:role>
+    <mods:description>Professor of Botany at Oxford since 1834. Also Professor of Chemistry until 1855. In 1856, President of the British Association for the Advancement of Science.</mods:description>
+  </mods:name>
+  <mods:genre authority='aat'>signatures (names)</mods:genre>
+  <mods:genre authority='aat'>publications</mods:genre>
+  <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
+  <mods:genre authority='aat'>books</mods:genre>
+  <mods:originInfo>
+    <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
+    <mods:dateCreated>8 March 1858</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1858-03-08</mods:dateCreated>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='Livingstone'>
+    <mods:place>
+      <mods:placeTerm type='text'>Birkenhead</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='LoC'>
+    <mods:place>
+      <mods:placeTerm type='text'>Birkenhead (England)</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>53.393,-3.014</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:physicalDescription>
+    <mods:note type='physical details'>Fragmentary manuscript in creator's hand</mods:note>
+  </mods:physicalDescription>
+  <mods:relatedItem type='original'>
+    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n2001047309'>
+      <mods:namePart>University of the Witwatersrand. William Cullen Library</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Sotheby's Cat., 3 Dec. 1913, lot 299, item 2.</mods:identifier>
+  </mods:relatedItem>
+</mods:mods>

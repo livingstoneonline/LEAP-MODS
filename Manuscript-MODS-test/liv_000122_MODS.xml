@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
+  <mods:identifier type='local' displayLabel='master_id'>liv_000122</mods:identifier>
+  <mods:titleInfo>
+    <mods:title>Letter to George Moore</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type='alternative'>
+    <mods:title>Letter to George Moore, 28 November 1860</mods:title>
+  </mods:titleInfo>
+  <mods:name type='personal'>
+    <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
+    <mods:namePart>Moore, George</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>addressee</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre authority='aat'>letters</mods:genre>
+  <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
+  <mods:originInfo>
+    <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
+    <mods:dateCreated>28 November 1860</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1860-11-28</mods:dateCreated>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='Livingstone'>
+    <mods:place>
+      <mods:placeTerm type='text'>Tette</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='LoC'>
+    <mods:place>
+      <mods:placeTerm type='text'>Tete (Mozambique : Province)</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>-16.166667,33.6</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:physicalDescription>
+    <mods:note type='physical details'>Published copy</mods:note>
+  </mods:physicalDescription>
+  <mods:relatedItem type='original'>
+    <mods:name type='corporate' authority='local'>
+      <mods:namePart>Private owner</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>The Mercury (Hobart, Tasmania), 18 Nov. 1872, 3.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Trove, 2015, http://trove.nla.gov.au/ndp/del/article/8915621 (accessed 13 Apr. 2015).</mods:identifier>
+  </mods:relatedItem>
+</mods:mods>

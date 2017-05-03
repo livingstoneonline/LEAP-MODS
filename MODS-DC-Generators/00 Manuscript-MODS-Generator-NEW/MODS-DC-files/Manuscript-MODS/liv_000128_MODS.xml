@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
+  <mods:identifier type='local' displayLabel='master_id'>liv_000128</mods:identifier>
+  <mods:titleInfo>
+    <mods:title>Letter to Edwin Sidney</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type='alternative'>
+    <mods:title>Letter to Edwin Sidney, 20 September 1864</mods:title>
+  </mods:titleInfo>
+  <mods:name type='personal'>
+    <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
+    <mods:namePart>Sidney, Edwin</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>addressee</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre authority='aat'>letters</mods:genre>
+  <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
+  <mods:originInfo>
+    <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
+    <mods:dateCreated>20 September 1864</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1864-09-20</mods:dateCreated>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='Livingstone'>
+    <mods:place>
+      <mods:placeTerm type='text'>Bath</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='LoC'>
+    <mods:place>
+      <mods:placeTerm type='text'>Bath (England)</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>51.38,-2.36</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:physicalDescription>
+    <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
+    <mods:extent unit='pages'>2</mods:extent>
+    <mods:note>1 folio, folded to create 4 pages, with writing on 2 pages</mods:note>
+    <mods:extent unit='mm'>184 x 178</mods:extent>
+  </mods:physicalDescription>
+  <mods:relatedItem type='original'>
+    <mods:name type='corporate' authority='local'>
+      <mods:namePart>Private owner</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>David C. Lachman, PhD, 2015, http://www.davidclachman.com/miscellanea/autographs.html (accessed 13 Apr. 2015).</mods:identifier>
+  </mods:relatedItem>
+</mods:mods>

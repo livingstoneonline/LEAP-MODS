@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
+  <mods:identifier type='local' displayLabel='master_id'>liv_000476</mods:identifier>
+  <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Letters, 0021</mods:identifier>
+  <mods:titleInfo>
+    <mods:title>Letter to Thomas L. Prentice</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type='alternative'>
+    <mods:title>Letter to Thomas L. Prentice, 5, 17 March 1841</mods:title>
+  </mods:titleInfo>
+  <mods:name type='personal'>
+    <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
+    <mods:namePart>Prentice, Thomas L.</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>addressee</mods:roleTerm>
+    </mods:role>
+    <mods:description>Friend of Livingstone while he was a student. Also wished to be a missionary, but instead became a corn merchant.</mods:description>
+  </mods:name>
+  <mods:genre authority='aat'>letters</mods:genre>
+  <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
+  <mods:originInfo>
+    <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
+    <mods:dateCreated>5, 17 March 1841</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1841-03-05/1841-03-17</mods:dateCreated>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='Livingstone'>
+    <mods:place>
+      <mods:placeTerm type='text'>George at sea-Cape Town</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='LoC'>
+    <mods:place>
+      <mods:placeTerm type='text'>Cape Town (South Africa)</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>-33.925278,18.423889</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:physicalDescription>
+    <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
+    <mods:extent unit='pages'>4</mods:extent>
+    <mods:note>1 folio, folded to create 4 pages, with writing on 4 pages</mods:note>
+    <mods:extent unit='mm'>265 x 201</mods:extent>
+  </mods:physicalDescription>
+  <mods:relatedItem type='original'>
+    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n84192693'>
+      <mods:namePart>Livingstone Museum</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:location>
+      <mods:shelfLocator>On display</mods:shelfLocator>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10779</mods:identifier>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>David Chamberlin, ed., Some Letters from Livingstone, 1840-1872 (London: Oxford University Press, 1940), 16-19.</mods:identifier>
+  </mods:relatedItem>
+</mods:mods>

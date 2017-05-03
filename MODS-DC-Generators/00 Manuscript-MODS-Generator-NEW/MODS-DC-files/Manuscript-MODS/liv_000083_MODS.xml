@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
+  <mods:identifier type='local' displayLabel='master_id'>liv_000083</mods:identifier>
+  <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Letters, 0918</mods:identifier>
+  <mods:titleInfo>
+    <mods:title>Report on the Navigation of the Zambesi</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type='alternative'>
+    <mods:title>Report on the Navigation of the Zambesi, [21-25 July 1859]</mods:title>
+  </mods:titleInfo>
+  <mods:name type='personal'>
+    <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:note displayLabel='addressee'>The addressee is unknown.</mods:note>
+  <mods:genre authority='aat'>letters</mods:genre>
+  <mods:genre authority='aat'>official reports</mods:genre>
+  <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
+  <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
+  <mods:originInfo>
+    <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
+    <mods:dateCreated>[21-25 July 1859]</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1859-07-21/1859-07-25</mods:dateCreated>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='Livingstone'>
+    <mods:place>
+      <mods:placeTerm type='text'>[Senna]</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='LoC'>
+    <mods:place>
+      <mods:placeTerm type='text'>Mozambique</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>-18.0775,35.776667</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:physicalDescription>
+    <mods:note type='physical details'>Manuscript copy in unknown hand</mods:note>
+    <mods:extent unit='pages'>9</mods:extent>
+  </mods:physicalDescription>
+  <mods:relatedItem type='original'>
+    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/nb2011009634'>
+      <mods:namePart>National Museum of the Royal Navy (Great Britain)</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:accessCondition type='use and reproduction'>Images &amp;#169; National Museum of the Royal Navy. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
+    <mods:accessCondition type='use and reproduction'>As relevant, &amp;#169; Dr. Neil Imray Livingstone Wilson. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>J.P.R. Wallis, The Zambezi Expedition of David Livingstone, 1858-1863 (London: Chatto &amp;amp; Windus, 1956), vol. 2, 326-331.</mods:identifier>
+  </mods:relatedItem>
+</mods:mods>

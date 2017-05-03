@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
+  <mods:identifier type='local' displayLabel='master_id'>liv_001826</mods:identifier>
+  <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Letters, 1272</mods:identifier>
+  <mods:titleInfo>
+    <mods:title>Letter to William O. Livingstone</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type='alternative'>
+    <mods:title>Letter to William O. Livingstone, 10 October 1862</mods:title>
+  </mods:titleInfo>
+  <mods:name type='personal'>
+    <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
+    <mods:namePart>Livingstone, William O., 1851-1892</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>addressee</mods:roleTerm>
+    </mods:role>
+    <mods:description>Third son of David Livingstone, generally called "Oswell" or "Zouga." Went to England with his mother in 1852. Joined the Livingstone Search Expedition in 1872, but did not reach his father.</mods:description>
+  </mods:name>
+  <mods:genre authority='aat'>letters</mods:genre>
+  <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
+  <mods:genre authority='aat'>publications</mods:genre>
+  <mods:originInfo>
+    <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
+    <mods:dateCreated>10 October 1862</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1862-10-10</mods:dateCreated>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='Livingstone'>
+    <mods:place>
+      <mods:placeTerm type='text'>R. Rovuma</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='LoC'>
+    <mods:place>
+      <mods:placeTerm type='text'>Indian Ocean?</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>-6,64</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:physicalDescription>
+    <mods:note type='physical details'>Published copy</mods:note>
+    <mods:extent unit='pages'>4</mods:extent>
+    <mods:extent unit='mm'>8vo</mods:extent>
+  </mods:physicalDescription>
+  <mods:relatedItem type='original'>
+    <mods:name type='corporate' authority='local'>
+      <mods:namePart>Private owner</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Myers' Cat., 8 (1972), no. 4.</mods:identifier>
+  </mods:relatedItem>
+</mods:mods>

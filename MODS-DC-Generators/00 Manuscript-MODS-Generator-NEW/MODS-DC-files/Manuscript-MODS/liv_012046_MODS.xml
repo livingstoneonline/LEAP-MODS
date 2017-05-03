@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
+  <mods:identifier type='local' displayLabel='master_id'>liv_012046</mods:identifier>
+  <mods:titleInfo>
+    <mods:title>Case for David Livingstone Maps from 1870s, plus Printed Map of North Africa</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type='alternative'>
+    <mods:title>Case for David Livingstone Maps from 1870s, plus Printed Map of North Africa, Date Unknown (c.1930?)</mods:title>
+  </mods:titleInfo>
+  <mods:note displayLabel='creator'>One of the creators is unidentified.</mods:note>
+  <mods:genre authority='aat'>map cases</mods:genre>
+  <mods:genre authority='aat'>maps (documents)</mods:genre>
+  <mods:genre authority='aat'>publications</mods:genre>
+  <mods:originInfo>
+    <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
+    <mods:dateCreated>Date Unknown Date Unknown (c.1930?)</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1930</mods:dateCreated>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='Livingstone'>
+    <mods:place>
+      <mods:placeTerm type='text'>[Britain]</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='LoC'>
+    <mods:place>
+      <mods:placeTerm type='text'>Great Britain</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>53.214587,-1.665579</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:relatedItem type='original'>
+    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/no2009190108'>
+      <mods:namePart>David Livingstone Centre</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:location>
+      <mods:shelfLocator>808a, 808b</mods:shelfLocator>
+    </mods:location>
+    <mods:accessCondition type='use and reproduction'>&amp;#169; David Livingstone Centre, Blantyre. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
+  </mods:relatedItem>
+</mods:mods>

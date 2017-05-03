@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
+  <mods:identifier type='local' displayLabel='master_id'>liv_012045</mods:identifier>
+  <mods:titleInfo>
+    <mods:title>Visitors' Book Used in Livingstone Home, Presented in 1882 by Livingstone Memorial Church, Blantyre</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type='alternative'>
+    <mods:title>Visitors' Book Used in Livingstone Home, Presented in 1882 by Livingstone Memorial Church, Blantyre, 22 May 1882-17 July 1913</mods:title>
+  </mods:titleInfo>
+  <mods:name type='personal'>
+    <mods:namePart>Livingstone, John, 1811-1899</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
+    <mods:namePart>Blaikie, William Garden, 1820-1899</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:note displayLabel='creator'>One of the creators is unidentified.</mods:note>
+  <mods:name type='personal'>
+    <mods:namePart>Hishmeh, Sheik Selim</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre authority='aat'>visitors' books</mods:genre>
+  <mods:genre authority='aat'>signatures (names)</mods:genre>
+  <mods:originInfo>
+    <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
+    <mods:dateCreated>22 May 1882-17 July 1913</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1882-05-22/1913-07-17</mods:dateCreated>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='Livingstone'>
+    <mods:place>
+      <mods:placeTerm type='text'>[Blantyre, Scotland]</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='LoC'>
+    <mods:place>
+      <mods:placeTerm type='text'>Blantyre (Scotland)</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>55.793,-4.097</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:relatedItem type='original'>
+    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/no2009190108'>
+      <mods:namePart>David Livingstone Centre</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:location>
+      <mods:shelfLocator>1414</mods:shelfLocator>
+    </mods:location>
+    <mods:accessCondition type='use and reproduction'>&amp;#169; David Livingstone Centre. Object images used by permission. May not be reproduced without the express written consent of the National Trust for Scotland, on behalf of the Scottish National Memorial to David Livingstone Trust.</mods:accessCondition>
+    <mods:accessCondition type='use and reproduction'>Images of the objects from the David Livingstone Centre are &amp;#169; Roddy Simpson. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
+  </mods:relatedItem>
+</mods:mods>

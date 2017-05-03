@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
+  <mods:identifier type='local' displayLabel='master_id'>liv_002437</mods:identifier>
+  <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Letters, 1841.5</mods:identifier>
+  <mods:titleInfo>
+    <mods:title>Letter to George C.M. Birdwood</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type='alternative'>
+    <mods:title>Letter to George C.M. Birdwood, [23-26 November 1865]</mods:title>
+  </mods:titleInfo>
+  <mods:name type='personal'>
+    <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
+    <mods:namePart>Birdwood, George C.M., 1832-1917</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>addressee</mods:roleTerm>
+    </mods:role>
+    <mods:description>Medical graduate of Edinburgh. Practiced in Bombay 1854-68. Worked in the India Office in London 1878-1902. Wrote widely on Indian life and civilization. Knighted 1881.</mods:description>
+  </mods:name>
+  <mods:genre authority='aat'>letters</mods:genre>
+  <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
+  <mods:originInfo>
+    <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
+    <mods:dateCreated>[23-26 November 1865]</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1865-11-23/1865-11-26</mods:dateCreated>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='Livingstone'>
+    <mods:place>
+      <mods:placeTerm type='text'>Bombay</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='LoC'>
+    <mods:place>
+      <mods:placeTerm type='text'>Mumbai (India)</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>18.975, 72.825833</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:physicalDescription>
+    <mods:note type='physical details'>Published copy</mods:note>
+  </mods:physicalDescription>
+  <mods:relatedItem type='original'>
+    <mods:name type='corporate' authority='local'>
+      <mods:namePart>Private owner</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Times of India (Bombay), 2 Dec. 1865, 3 c. 2.</mods:identifier>
+  </mods:relatedItem>
+</mods:mods>

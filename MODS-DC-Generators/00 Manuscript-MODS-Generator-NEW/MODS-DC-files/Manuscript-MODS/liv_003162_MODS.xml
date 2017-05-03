@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
+  <mods:identifier type='local' displayLabel='master_id'>liv_003162</mods:identifier>
+  <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Letters, 0331</mods:identifier>
+  <mods:titleInfo>
+    <mods:title>Letter to Thomas Maclear</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type='alternative'>
+    <mods:title>Letter to Thomas Maclear, 7 April, 8 June, 15 August 1854</mods:title>
+  </mods:titleInfo>
+  <mods:name type='personal'>
+    <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
+    <mods:namePart>Maclear, Thomas, 1794-1879</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
+    <mods:namePart>Maclear, Thomas, 1794-1879</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>addressee</mods:roleTerm>
+    </mods:role>
+    <mods:description>Appointed astronomer of the Royal Observatory at Cape Town in 1833. Knighted 1860. Met Livingstone in 1852, became a close friend, and thereafter Livingstone depended on him to check and reduce his observations. Livingstone named Cape Maclear after him.</mods:description>
+  </mods:name>
+  <mods:genre authority='aat'>letters</mods:genre>
+  <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
+  <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
+  <mods:originInfo>
+    <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
+    <mods:dateCreated>7 April, 8 June, 15 August 1854</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1854-04-07/1854-08-15</mods:dateCreated>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='Livingstone'>
+    <mods:place>
+      <mods:placeTerm type='text'>[Banks of the Quango-Loanda]</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='LoC'>
+    <mods:place>
+      <mods:placeTerm type='text'>Luanda (Luanda, Angola)</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>-8.838333,C4213.234444</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:physicalDescription>
+    <mods:note type='physical details'>Manuscript copy in another hand</mods:note>
+  </mods:physicalDescription>
+  <mods:relatedItem type='original'>
+    <mods:name type='corporate' authority='local'>
+      <mods:namePart>Royal Greenwich Observatory. Archives</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:location>
+      <mods:shelfLocator>15/52/74-76</mods:shelfLocator>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 20313</mods:identifier>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Parliamentary Papers (Great Britain), Sess. 1856, LXII [174] A, 86-87.</mods:identifier>
+  </mods:relatedItem>
+</mods:mods>

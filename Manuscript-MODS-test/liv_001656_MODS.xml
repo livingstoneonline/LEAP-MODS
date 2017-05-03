@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
+  <mods:identifier type='local' displayLabel='master_id'>liv_001656</mods:identifier>
+  <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Letters, 1109</mods:identifier>
+  <mods:titleInfo>
+    <mods:title>Letter to John Washington</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type='alternative'>
+    <mods:title>Letter to John Washington, 18 April 1861</mods:title>
+  </mods:titleInfo>
+  <mods:name type='personal'>
+    <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
+    <mods:namePart>Washington, John, 1800-1863</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>addressee</mods:roleTerm>
+    </mods:role>
+    <mods:description>Hydrographer to the Admiralty and Head of the Harbour Department from 1855 till his death. Chief supply officer for Livingstone's Zambezi Expedition. Handled Livingstone's requests for provisions, material, personnel, etc.</mods:description>
+  </mods:name>
+  <mods:genre authority='aat'>letters</mods:genre>
+  <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
+  <mods:originInfo>
+    <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
+    <mods:dateCreated>18 April 1861</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1861-04-18</mods:dateCreated>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='Livingstone'>
+    <mods:place>
+      <mods:placeTerm type='text'>Johanna</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='LoC'>
+    <mods:place>
+      <mods:placeTerm type='text'>Anjouan (Comoros)</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>-12.25,44.416667</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:physicalDescription>
+    <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
+    <mods:extent unit='pages'>7</mods:extent>
+    <mods:note>2 folia, folded to create 8 pages, with writing on 7 pages</mods:note>
+    <mods:extent unit='mm'>325 x 200</mods:extent>
+  </mods:physicalDescription>
+  <mods:relatedItem type='original'>
+    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/nb2011009634'>
+      <mods:namePart>National Museum of the Royal Navy (Great Britain)</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:location>
+      <mods:shelfLocator>MSS. 120</mods:shelfLocator>
+    </mods:location>
+    <mods:accessCondition type='use and reproduction'>Images &amp;#169; National Museum of the Royal Navy. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
+    <mods:accessCondition type='use and reproduction'>As relevant, &amp;#169; Dr. Neil Imray Livingstone Wilson. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
+  </mods:relatedItem>
+  <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10777</mods:identifier>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>G. W. Clendennen, ed., "David Livingstone on the Zambesi: Letters to John Washington, 1861-1863," Munger Africana Library Notes 6:32 (1976), 14-17.</mods:identifier>
+  </mods:relatedItem>
+</mods:mods>

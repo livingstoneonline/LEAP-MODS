@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
+  <mods:identifier type='local' displayLabel='master_id'>liv_000839</mods:identifier>
+  <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Letters, 0359</mods:identifier>
+  <mods:titleInfo>
+    <mods:title>Letter to Edmund Gabriel</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type='alternative'>
+    <mods:title>Letter to Edmund Gabriel, 5, 18, 20, 23 January 1855</mods:title>
+  </mods:titleInfo>
+  <mods:name type='personal'>
+    <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
+    <mods:namePart>Gabriel, Edmund, 1821-1862</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>addressee</mods:roleTerm>
+    </mods:role>
+    <mods:description>British arbitrator from 1845 on the British and Portuguese Commission at Loanda for the suppression of the slave trade. Made Acting Commissioner in 1856 and Commissioner in 1859. Livingstone stayed at his house in 1854 and struck up a warm friendship.</mods:description>
+  </mods:name>
+  <mods:genre authority='aat'>letters</mods:genre>
+  <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
+  <mods:originInfo>
+    <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
+    <mods:dateCreated>5, 18, 20, 23 January 1855</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1855-01-05/1855-01-23</mods:dateCreated>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='Livingstone'>
+    <mods:place>
+      <mods:placeTerm type='text'>Malange-Cassange</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:originInfo displayLabel='LoC'>
+    <mods:place>
+      <mods:placeTerm type='text'>Malange (Angola)</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>47.1769,5.6153</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:physicalDescription>
+    <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
+    <mods:extent unit='pages'>40</mods:extent>
+    <mods:note>10 folia, folded to create 40 pages, with writing on 40 pages</mods:note>
+    <mods:extent unit='mm'>225 x 188</mods:extent>
+  </mods:physicalDescription>
+  <mods:relatedItem type='original'>
+    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n85315461'>
+      <mods:namePart>Brenthurst Library</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:location>
+      <mods:shelfLocator>Book no. 6754</mods:shelfLocator>
+    </mods:location>
+    <mods:accessCondition type='use and reproduction'>Images &amp;#169; The Brenthurst Press (Pty) Ltd, 2014. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
+  </mods:relatedItem>
+  <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10769</mods:identifier>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Outward Bound (London), 3:27 (Dec. 1922), 191-196, ex.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Outward Bound (London), 3:28 (Jan. 1923), 289-290, ex.</mods:identifier>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Sotheby's Cat., 3 May 1971, lot 276.</mods:identifier>
+  </mods:relatedItem>
+</mods:mods>
