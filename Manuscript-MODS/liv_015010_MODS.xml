@@ -55,5 +55,6 @@
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
     </mods:name>
+    <mods:accessCondition type='use and reproduction'>Digital edition copyright Livingstone Online. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
   </mods:relatedItem>
 </mods:mods>

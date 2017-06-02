@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes'?>
 <mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
-  <mods:identifier type='local' displayLabel='master_id'>liv_002710</mods:identifier>
+  <mods:identifier type='local' displayLabel='master_id'>liv_015009</mods:identifier>
   <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Books, 04</mods:identifier>
   <mods:titleInfo>
     <mods:title>The Last Journals of David Livingstone in Central Africa (Vol. 1)</mods:title>
@@ -55,5 +55,6 @@
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
     </mods:name>
+    <mods:accessCondition type='use and reproduction'>Digital edition copyright Livingstone Online. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
   </mods:relatedItem>
 </mods:mods>
