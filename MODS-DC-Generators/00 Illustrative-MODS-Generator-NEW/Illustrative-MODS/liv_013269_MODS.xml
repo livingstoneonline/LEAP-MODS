@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
+  <mods:identifier type='local' displayLabel='master_id'>liv_013269</mods:identifier>
+  <mods:titleInfo>
+    <mods:title>Caroline Overy at SOAS</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type='alternative'>
+    <mods:title>Caroline Overy at SOAS, 2008</mods:title>
+  </mods:titleInfo>
+  <mods:genre authority='aat'>images (object genre)</mods:genre>
+  <mods:physicalDescription>
+    <mods:note>1 image</mods:note>
+  </mods:physicalDescription>
+  <mods:originInfo>
+    <mods:dateCreated>2008</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>2008</mods:dateCreated>
+    <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
+  </mods:originInfo>
+  <mods:accessCondition type='use and reproduction'>&amp;#169; Livingstone Online. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
+</mods:mods>
