@@ -21,8 +21,8 @@ require 'mini_exiftool'
 
 
 @root_dir = Dir.pwd
-@csvfile = File.join(File.dirname(__FILE__), "test-file.csv")
-@image_directory = File.join(File.dirname(__FILE__), "images")
+@csvfile = File.join(File.dirname(__FILE__), "Spectral-DC-07.csv")
+@image_directory = File.join(File.dirname(__FILE__), "spectral-images-to-add-DC")
 
 def main
   csv = map_csv(@csvfile, "$")  # array of arrays
