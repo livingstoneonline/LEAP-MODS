@@ -5,15 +5,15 @@
     <mods:title>Set of Four Postage Stamps Depicting David Livingstone, Commemorate the 100th Anniversary of his Death</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Set of Four Postage Stamps Depicting David Livingstone, Commemorate the 100th Anniversary of his Death, [20th century]</mods:title>
+    <mods:title>Set of Four Postage Stamps Depicting David Livingstone, Commemorate the 100th Anniversary of his Death, [1973]</mods:title>
   </mods:titleInfo>
   <mods:note displayLabel='creator'>One of the creators is unidentified.</mods:note>
   <mods:genre authority='aat'>postage stamps</mods:genre>
   <mods:genre authority='aat'>commemorative prints</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>[20th century]</mods:dateCreated>
-    <mods:dateCreated encoding='iso8601'>1950</mods:dateCreated>
+    <mods:dateCreated>[1973]</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1973</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
