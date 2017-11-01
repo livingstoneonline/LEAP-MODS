@@ -16,7 +16,7 @@
   <mods:genre authority='aat'>graphic document genres</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>Date Unknown Date Unknown (c.1970?)</mods:dateCreated>
+    <mods:dateCreated>Date Unknown (c.1970?)</mods:dateCreated>
     <mods:dateCreated encoding='iso8601'>1970</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
