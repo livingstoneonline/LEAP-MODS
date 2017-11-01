@@ -46,6 +46,7 @@
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
     </mods:name>
+    <mods:accessCondition type='use and reproduction'>Public domain.</mods:accessCondition>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>British Medical Journal, n.s., 70 (1 May 1858), 360-361.</mods:identifier>
