@@ -21,17 +21,17 @@
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
-      <mods:placeTerm type='text'>[India]</mods:placeTerm>
+      <mods:placeTerm type='text'>[Britain]</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
     <mods:place>
-      <mods:placeTerm type='text'>India</mods:placeTerm>
+      <mods:placeTerm type='text'>Great Britain</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:subject>
     <mods:cartographics>
-      <mods:coordinates>21,78</mods:coordinates>
+      <mods:coordinates>53.214587,-1.665579</mods:coordinates>
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>

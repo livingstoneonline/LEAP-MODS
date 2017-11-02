@@ -38,20 +38,12 @@
       <mods:placeTerm type='text'>Indian Ocean?</mods:placeTerm>
     </mods:place>
     <mods:place>
-      <mods:placeTerm type='text'>Ruvuma Region (Tanzania)</mods:placeTerm>
-    </mods:place>
-    <mods:place>
       <mods:placeTerm type='text'>Anjouan (Comoros)</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:subject>
     <mods:cartographics>
-      <mods:coordinates>-6,64</mods:coordinates>
-    </mods:cartographics>
-  </mods:subject>
-  <mods:subject>
-    <mods:cartographics>
-      <mods:coordinates>-11,36</mods:coordinates>
+      <mods:coordinates>-10.442829,40.456561</mods:coordinates>
     </mods:cartographics>
   </mods:subject>
   <mods:subject>

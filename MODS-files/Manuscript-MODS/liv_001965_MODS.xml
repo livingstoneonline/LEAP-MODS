@@ -39,18 +39,10 @@
     <mods:place>
       <mods:placeTerm type='text'>Murchison Falls (Malawi)</mods:placeTerm>
     </mods:place>
-    <mods:place>
-      <mods:placeTerm type='text'>Murchison Falls (Malawi)</mods:placeTerm>
-    </mods:place>
   </mods:originInfo>
   <mods:subject>
     <mods:cartographics>
-      <mods:coordinates>2.277314,31.683347</mods:coordinates>
-    </mods:cartographics>
-  </mods:subject>
-  <mods:subject>
-    <mods:cartographics>
-      <mods:coordinates>2.277314,31.683347</mods:coordinates>
+      <mods:coordinates>-15.383333,34.9</mods:coordinates>
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>
