@@ -52,7 +52,7 @@
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
     <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n82161807'>
-      <mods:namePart>Arquivo Histórico Ultramarino (Portugal)</mods:namePart>
+      <mods:namePart>Arquivo Histórico Ultramarino (Portugal)</mods:namePart>
       <mods:role>
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>

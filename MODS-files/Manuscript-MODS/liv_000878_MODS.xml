@@ -50,7 +50,7 @@
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
     <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n80084526'>
-      <mods:namePart>Institut de France. Bibliothèque</mods:namePart>
+      <mods:namePart>Institut de France. Bibliothèque</mods:namePart>
       <mods:role>
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
