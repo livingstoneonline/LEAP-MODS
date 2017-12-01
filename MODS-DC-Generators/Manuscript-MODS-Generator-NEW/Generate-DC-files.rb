@@ -20,7 +20,7 @@ require 'mini_exiftool'
 # `ruby script3.rb`
 
 
-@csvfile = File.join(File.dirname(__FILE__), "14-DC-09r.csv")
+@csvfile = File.join(File.dirname(__FILE__), "14-DC-09t.csv")
 @image_directory = File.join(File.dirname(__FILE__), "Images-to-add-DC")
 
 def main
