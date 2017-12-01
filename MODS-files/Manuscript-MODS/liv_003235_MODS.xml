@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes'?>
 <mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
-  <mods:identifier type='local' displayLabel='master_id'>liv_001090</mods:identifier>
+  <mods:identifier type='local' displayLabel='master_id'>liv_003235</mods:identifier>
   <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Letters, 0581.9</mods:identifier>
   <mods:titleInfo>
     <mods:title>Letter to Miss Macgregor</mods:title>
@@ -21,8 +21,7 @@
     </mods:role>
   </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
-  <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
-  <mods:genre authority='aat'>photocopies</mods:genre>
+  <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
     <mods:dateCreated>9 September 1857</mods:dateCreated>
@@ -44,18 +43,22 @@
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>
-    <mods:note type='physical details'>Photocopy of manuscript in creator's hand</mods:note>
+    <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
     <mods:extent unit='pages'>8</mods:extent>
     <mods:note>4 folia, folded to create 8 pages, with writing on 8 pages</mods:note>
     <mods:extent unit='mm'>4to</mods:extent>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
-    <mods:name type='corporate' authority='local'>
-      <mods:namePart>Private owner</mods:namePart>
+    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n83137759'>
+      <mods:namePart>University of Birmingham. Library</mods:namePart>
       <mods:role>
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
     </mods:name>
+    <mods:location>
+      <mods:shelfLocator>CMS Archive, CMS/ACC70 C1</mods:shelfLocator>
+    </mods:location>
+    <mods:accessCondition type='use and reproduction'>Images from Cadbury Research Library, University of Birmingham. Images &amp;#169; Church Missionary Society. Used by permission for private study, educational or research purposes only. Please contact the CMS Archives (special-collections&amp;#64;bham.ac.uk) and the CMS (library&amp;#64;churchmissionsociety.org) for permission to use this material for any other purpose. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/ licenses/by-nc/3.0/).​</mods:accessCondition>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>H.K.W. Kumm, African Missionary Heroes and Heroines (New York: Macmillan, 1917), frontispiece, ex.</mods:identifier>

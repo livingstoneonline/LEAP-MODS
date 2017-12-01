@@ -57,8 +57,9 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>CMS Archive, CMS/B/OMS/C A5 O1, 6</mods:shelfLocator>
+      <mods:shelfLocator>CMS Archive, CMS/B/OMS/C A5 O1/6</mods:shelfLocator>
     </mods:location>
+    <mods:accessCondition type='use and reproduction'>Images from Cadbury Research Library, University of Birmingham. Images &amp;#169; Church Missionary Society. Used by permission for private study, educational or research purposes only. Please contact the CMS Archives (special-collections&amp;#64;bham.ac.uk) and the CMS (library&amp;#64;churchmissionsociety.org) for permission to use this material for any other purpose. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/ licenses/by-nc/3.0/).​</mods:accessCondition>
   </mods:relatedItem>
   <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10779</mods:identifier>
 </mods:mods>
