@@ -42,16 +42,21 @@
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>
-    <mods:extent unit='pages'>4[?]</mods:extent>
+    <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
+    <mods:extent unit='pages'>4</mods:extent>
+    <mods:note>1 folio, folded to create 4 pages, with writing on 2 pages</mods:note>
     <mods:extent unit='mm'>8vo</mods:extent>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
-    <mods:name type='corporate' authority='local'>
-      <mods:namePart>Private owner</mods:namePart>
+    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n80044899'>
+      <mods:namePart>National Library of Scotland</mods:namePart>
       <mods:role>
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
     </mods:name>
+    <mods:location>
+      <mods:shelfLocator>Acc. 12444</mods:shelfLocator>
+    </mods:location>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Invaluable (Sotheby's, London), 18 Nov. 2004, http://www.invaluable.com/auction-lot/livingstone,-david-289-c-rnthpaugv3 (accessed 13 Apr. 2015).</mods:identifier>
