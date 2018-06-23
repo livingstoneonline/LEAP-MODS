@@ -1,12 +1,11 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes'?>
 <mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
-  <mods:identifier type='local' displayLabel='master_id'>liv_015011</mods:identifier>
-  <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Books, 01</mods:identifier>
+  <mods:identifier type='local' displayLabel='master_id'>liv_003240</mods:identifier>
   <mods:titleInfo>
-    <mods:title>Missionary Travels and Researches in South Africa</mods:title>
+    <mods:title>Letter to Robert Cooke</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Missionary Travels and Researches in South Africa, 1857</mods:title>
+    <mods:title>Letter to Robert Cooke, 6 August 1864</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
@@ -14,31 +13,39 @@
       <mods:roleTerm type='text'>creator</mods:roleTerm>
     </mods:role>
   </mods:name>
-  <mods:genre authority='aat'>books</mods:genre>
-  <mods:genre authority='aat'>publications</mods:genre>
+  <mods:name type='personal'>
+    <mods:namePart>Cooke, Robert, 1816-1891</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>addressee</mods:roleTerm>
+    </mods:role>
+    <mods:description>Partner at John Murray publishing house, Livingstone's publisher.</mods:description>
+  </mods:name>
+  <mods:genre authority='aat'>letters</mods:genre>
+  <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>1857</mods:dateCreated>
-    <mods:dateCreated encoding='iso8601'>1857</mods:dateCreated>
+    <mods:dateCreated>6 August 1864</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1864-08-06</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
-      <mods:placeTerm type='text'>[Britain]</mods:placeTerm>
+      <mods:placeTerm type='text'>Hamilton</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
     <mods:place>
-      <mods:placeTerm type='text'>Great Britain</mods:placeTerm>
+      <mods:placeTerm type='text'>Hamilton (Scotland)</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:subject>
     <mods:cartographics>
-      <mods:coordinates>53.214587,-1.665579</mods:coordinates>
+      <mods:coordinates>55.77742,-4.05505</mods:coordinates>
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>
-    <mods:note type='physical details'>Published copy</mods:note>
-    <mods:extent unit='pages'>12 + 688 + 8 + 2 maps</mods:extent>
+    <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
+    <mods:extent unit='pages'>4</mods:extent>
+    <mods:extent unit='mm'>8vo</mods:extent>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
     <mods:name type='corporate' authority='local'>
@@ -47,6 +54,8 @@
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:accessCondition type='use and reproduction'>Digital edition copyright Livingstone Online. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Bonhams (London), 20 June 2018, https://www.bonhams.com/auctions/24634/lot/102/ (accessed 20 June 2018).</mods:identifier>
   </mods:relatedItem>
 </mods:mods>
