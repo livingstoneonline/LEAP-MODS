@@ -1,7 +1,7 @@
 
 import groovy.xml.MarkupBuilder;
 
-def filename = "14-MODS-10a.csv";
+def filename = "14-MODS-10b.csv";
 
 
 File csvFile = new File(filename);
