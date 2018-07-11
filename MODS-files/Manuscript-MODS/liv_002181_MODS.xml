@@ -57,7 +57,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>G5 [not confirmed]</mods:shelfLocator>
+      <mods:shelfLocator>G5 [not located]</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
   <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10779</mods:identifier>

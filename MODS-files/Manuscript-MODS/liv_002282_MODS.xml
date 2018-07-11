@@ -57,7 +57,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>G5 [not confirmed]</mods:shelfLocator>
+      <mods:shelfLocator>G5 [location not confirmed]</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>

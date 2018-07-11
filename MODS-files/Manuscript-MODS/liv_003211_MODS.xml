@@ -53,7 +53,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>No shelfmark</mods:shelfLocator>
+      <mods:shelfLocator>[Box 2]</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
 </mods:mods>

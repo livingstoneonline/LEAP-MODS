@@ -57,7 +57,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>On display [not confirmed]</mods:shelfLocator>
+      <mods:shelfLocator>On display [not located]</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
 </mods:mods>

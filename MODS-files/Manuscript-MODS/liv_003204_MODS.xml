@@ -2,10 +2,10 @@
 <mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
   <mods:identifier type='local' displayLabel='master_id'>liv_003204</mods:identifier>
   <mods:titleInfo>
-    <mods:title>Letter to Unknown</mods:title>
+    <mods:title>Letter to [William C. Oswell?]</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Letter to Unknown, [1865]</mods:title>
+    <mods:title>Letter to [William C. Oswell?], [1865]</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
@@ -13,7 +13,13 @@
       <mods:roleTerm type='text'>creator</mods:roleTerm>
     </mods:role>
   </mods:name>
-  <mods:note displayLabel='addressee'>The addressee is unknown.</mods:note>
+  <mods:name type='personal'>
+    <mods:namePart>Oswell, William C., 1818-1893</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>addressee</mods:roleTerm>
+    </mods:role>
+    <mods:description>Explorer and hunter. Met Livingstone in South Africa in 1845, and travelled with him 1849-51. Remained close friends.</mods:description>
+  </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
   <mods:originInfo>

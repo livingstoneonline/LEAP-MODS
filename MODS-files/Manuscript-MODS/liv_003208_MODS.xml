@@ -54,7 +54,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>No shelfmark</mods:shelfLocator>
+      <mods:shelfLocator>No shelfmark [not located]</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
 </mods:mods>

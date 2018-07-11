@@ -56,7 +56,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator> [not confirmed]</mods:shelfLocator>
+      <mods:shelfLocator> [not located]</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
 </mods:mods>
