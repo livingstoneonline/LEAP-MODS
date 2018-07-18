@@ -38,8 +38,8 @@
   </mods:subject>
   <mods:physicalDescription>
     <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
-    <mods:extent unit='pages'>1</mods:extent>
-    <mods:note>1 folio, folded to create 2 pages, with writing on 1 page</mods:note>
+    <mods:extent unit='pages'>2</mods:extent>
+    <mods:note>1 folio, folded to create 2 pages, with writing on 2 pages</mods:note>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
     <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n2001047309'>
@@ -49,7 +49,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>Hist. and Lit. Papers, On Display</mods:shelfLocator>
+      <mods:shelfLocator>Archbishops of Cape Town, Records, 1835-1968, AB867/Aa4.1.a</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
 </mods:mods>
