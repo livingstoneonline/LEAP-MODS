@@ -1,44 +1,43 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes'?>
 <mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
-  <mods:identifier type='local' displayLabel='master_id'>liv_002679</mods:identifier>
-  <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Autographs and Autograph Books, 12</mods:identifier>
+  <mods:identifier type='local' displayLabel='master_id'>liv_003270</mods:identifier>
   <mods:titleInfo>
-    <mods:title>Biblical Quotation (John 6:37) (English and Setswana)</mods:title>
+    <mods:title>Appeal for the David Livingstone Memorial</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Biblical Quotation (John 6:37) (English and Setswana), 20 February 1858</mods:title>
+    <mods:title>Appeal for the David Livingstone Memorial, [c.1930]</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
-    <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
+    <mods:namePart>Federated Caledonian Society of South Africa</mods:namePart>
     <mods:role>
       <mods:roleTerm type='text'>creator</mods:roleTerm>
     </mods:role>
   </mods:name>
-  <mods:genre authority='aat'>quotations (texts)</mods:genre>
-  <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
+  <mods:genre authority='aat'>booklets</mods:genre>
+  <mods:genre authority='aat'>publications</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>20 February 1858</mods:dateCreated>
-    <mods:dateCreated encoding='iso8601'>1858-02-20</mods:dateCreated>
+    <mods:dateCreated>[c.1930]</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1930</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
-      <mods:placeTerm type='text'>[18 Hart St., London]</mods:placeTerm>
+      <mods:placeTerm type='text'>Johannesburg</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
     <mods:place>
-      <mods:placeTerm type='text'>London (England)</mods:placeTerm>
+      <mods:placeTerm type='text'>Johannesburg (South Africa)</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:subject>
     <mods:cartographics>
-      <mods:coordinates>51.510910,-0.080086</mods:coordinates>
+      <mods:coordinates>-26.204444,28.045556</mods:coordinates>
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>
-    <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
-    <mods:extent unit='pages'>1</mods:extent>
+    <mods:extent unit='pages'>8</mods:extent>
+    <mods:note>1 folio, folded to create 8 pages, with writing on 8 pages</mods:note>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
     <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n2001047309'>
@@ -48,7 +47,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>Hist. and Lit. Papers, A348 and photocopy in A348/B</mods:shelfLocator>
+      <mods:shelfLocator>Hist. and Lit. Papers, A350</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
 </mods:mods>

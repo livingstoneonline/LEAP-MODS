@@ -1,29 +1,23 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes'?>
 <mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
-  <mods:identifier type='local' displayLabel='master_id'>liv_002679</mods:identifier>
-  <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Autographs and Autograph Books, 12</mods:identifier>
+  <mods:identifier type='local' displayLabel='master_id'>liv_003272</mods:identifier>
   <mods:titleInfo>
-    <mods:title>Biblical Quotation (John 6:37) (English and Setswana)</mods:title>
+    <mods:title>The Funeral in the Abbey</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Biblical Quotation (John 6:37) (English and Setswana), 20 February 1858</mods:title>
+    <mods:title>The Funeral in the Abbey, 18 April 1874</mods:title>
   </mods:titleInfo>
-  <mods:name type='personal'>
-    <mods:namePart>Livingstone, David, 1813-1873</mods:namePart>
-    <mods:role>
-      <mods:roleTerm type='text'>creator</mods:roleTerm>
-    </mods:role>
-  </mods:name>
-  <mods:genre authority='aat'>quotations (texts)</mods:genre>
-  <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
+  <mods:note displayLabel='creator'>One of the creators is unidentified.</mods:note>
+  <mods:genre authority='aat'>leaflets (printed works)</mods:genre>
+  <mods:genre authority='aat'>poems</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>20 February 1858</mods:dateCreated>
-    <mods:dateCreated encoding='iso8601'>1858-02-20</mods:dateCreated>
+    <mods:dateCreated>18 April 1874</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1874-04-18</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
-      <mods:placeTerm type='text'>[18 Hart St., London]</mods:placeTerm>
+      <mods:placeTerm type='text'>[London]</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
@@ -33,11 +27,10 @@
   </mods:originInfo>
   <mods:subject>
     <mods:cartographics>
-      <mods:coordinates>51.510910,-0.080086</mods:coordinates>
+      <mods:coordinates>51.507222,-0.1275</mods:coordinates>
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>
-    <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
     <mods:extent unit='pages'>1</mods:extent>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
@@ -48,7 +41,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>Hist. and Lit. Papers, A348 and photocopy in A348/B</mods:shelfLocator>
+      <mods:shelfLocator>Hist. and Lit. Papers, A350</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
 </mods:mods>

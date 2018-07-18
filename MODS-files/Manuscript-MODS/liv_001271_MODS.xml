@@ -46,7 +46,7 @@
   <mods:physicalDescription>
     <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
     <mods:extent unit='pages'>1</mods:extent>
-    <mods:note>1 folio, folded to create 2 pages, with writing on 1 page</mods:note>
+    <mods:note>1 folio, folded to create 4 pages, with writing on 1 page</mods:note>
     <mods:extent unit='mm'>8vo</mods:extent>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
@@ -57,7 +57,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>Hist. and Lit. Papers, A348/A10</mods:shelfLocator>
+      <mods:shelfLocator>Hist. and Lit. Papers, A348 and photograph copy in A348/A10</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
   <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10779</mods:identifier>

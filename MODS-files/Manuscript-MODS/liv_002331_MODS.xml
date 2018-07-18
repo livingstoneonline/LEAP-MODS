@@ -56,6 +56,9 @@
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
     </mods:name>
+    <mods:location>
+      <mods:shelfLocator>Hist. and Lit. Papers, A1079f</mods:shelfLocator>
+    </mods:location>
   </mods:relatedItem>
   <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10779</mods:identifier>
 </mods:mods>
