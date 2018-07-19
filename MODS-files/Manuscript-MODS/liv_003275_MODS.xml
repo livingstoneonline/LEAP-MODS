@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes'?>
 <mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
-  <mods:identifier type='local' displayLabel='master_id'>liv_000773</mods:identifier>
+  <mods:identifier type='local' displayLabel='master_id'>liv_003275</mods:identifier>
   <mods:identifier type='local' displayLabel='Canonical Catalog Number'>Letters, 0294</mods:identifier>
   <mods:titleInfo>
     <mods:title>Letter to Benjamin T. Pyne</mods:title>
@@ -22,6 +22,8 @@
     <mods:description>Farmer at North Weald, with whom Livingstone became friendly when a student there. After his wife's death he retired to Bishop's Stortford.</mods:description>
   </mods:name>
   <mods:genre authority='aat'>letters</mods:genre>
+  <mods:genre authority='aat'>copies (derivative objects)</mods:genre>
+  <mods:genre authority='aat'>photographs</mods:genre>
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
@@ -44,7 +46,7 @@
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>
-    <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
+    <mods:note type='physical details'>Photograph of manuscript in creator's hand</mods:note>
     <mods:extent unit='pages'>4</mods:extent>
     <mods:note>1 folio, folded to create 4 pages, with writing on 4 pages</mods:note>
     <mods:extent unit='mm'>191 x 118</mods:extent>
@@ -57,7 +59,7 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>Hist. and Lit. Papers, A348/2</mods:shelfLocator>
+      <mods:shelfLocator>Hist. and Lit. Papers, A348/A2</mods:shelfLocator>
     </mods:location>
   </mods:relatedItem>
   <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 10779</mods:identifier>
