@@ -5,15 +5,20 @@
     <mods:title>Sketch Map of Old Mabotsa, Present Gopani</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Sketch Map of Old Mabotsa, Present Gopani, [c.1950?]</mods:title>
+    <mods:title>Sketch Map of Old Mabotsa, Present Gopani, 15 May 1916</mods:title>
   </mods:titleInfo>
-  <mods:note displayLabel='creator'>One of the creators is unidentified.</mods:note>
+  <mods:name type='personal'>
+    <mods:namePart>H., S. J.</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type='text'>creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
   <mods:genre authority='aat'>manuscript maps</mods:genre>
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>[c.1950?]</mods:dateCreated>
-    <mods:dateCreated encoding='iso8601'>1950</mods:dateCreated>
+    <mods:dateCreated>15 May 1916</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1916-05-15</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
