@@ -17,7 +17,7 @@
   <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>Date Unknown  (No Later than 1862)</mods:dateCreated>
+    <mods:dateCreated>Date Unknown (No Later than 1862)</mods:dateCreated>
     <mods:dateCreated encoding='iso8601'>1862</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
