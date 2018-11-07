@@ -50,15 +50,16 @@
     <mods:extent unit='mm'>178 x 113</mods:extent>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
-    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n86086029'>
-      <mods:namePart>University of Minnesota. Library</mods:namePart>
+    <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/nr2003015706.html'>
+      <mods:namePart>University of Minnesota. Elmer L. Andersen Library</mods:namePart>
       <mods:role>
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>MS. 40 Box 3</mods:shelfLocator>
+      <mods:shelfLocator>Bovey and University of Minnesota Autograph Collection, MSS 40, Box 3</mods:shelfLocator>
     </mods:location>
+    <mods:accessCondition type='use and reproduction'>Images courtesy of Elmer L. Andersen Library, University of Minnesota.</mods:accessCondition>
   </mods:relatedItem>
   <mods:identifier type='local' displayLabel='NLS copy identifier'>MS. 20313</mods:identifier>
 </mods:mods>
