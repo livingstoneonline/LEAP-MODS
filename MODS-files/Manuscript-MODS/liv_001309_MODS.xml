@@ -35,9 +35,17 @@
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
     <mods:place>
+      <mods:placeTerm type='text'>Atlantic Ocean</mods:placeTerm>
+    </mods:place>
+    <mods:place>
       <mods:placeTerm type='text'>Cape Town (South Africa)</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>-9.024116,6.936231</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
   <mods:subject>
     <mods:cartographics>
       <mods:coordinates>-33.925278,18.423889</mods:coordinates>

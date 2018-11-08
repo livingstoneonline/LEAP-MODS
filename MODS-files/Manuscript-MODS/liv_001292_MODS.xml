@@ -35,12 +35,12 @@
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
     <mods:place>
-      <mods:placeTerm type='text'>Senegal</mods:placeTerm>
+      <mods:placeTerm type='text'>Atlantic Ocean</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:subject>
     <mods:cartographics>
-      <mods:coordinates>14.497401,-14.452362</mods:coordinates>
+      <mods:coordinates>14.519276,-18.193678</mods:coordinates>
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>

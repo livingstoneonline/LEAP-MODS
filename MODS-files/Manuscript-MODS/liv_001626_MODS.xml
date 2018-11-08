@@ -35,12 +35,12 @@
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
     <mods:place>
-      <mods:placeTerm type='text'>Madagascar</mods:placeTerm>
+      <mods:placeTerm type='text'>Indian Ocean</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:subject>
     <mods:cartographics>
-      <mods:coordinates>-18.766947,46.869107</mods:coordinates>
+      <mods:coordinates>-18.0775,43.175484</mods:coordinates>
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>

@@ -35,9 +35,17 @@
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
     <mods:place>
+      <mods:placeTerm type='text'>Indian Ocean</mods:placeTerm>
+    </mods:place>
+    <mods:place>
       <mods:placeTerm type='text'>Port Louis (Mauritius)</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:coordinates>-20.009073,56.843847</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
   <mods:subject>
     <mods:cartographics>
       <mods:coordinates>-20.164386,57.504104</mods:coordinates>
