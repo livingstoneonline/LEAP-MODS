@@ -57,8 +57,10 @@
       </mods:role>
     </mods:name>
     <mods:location>
-      <mods:shelfLocator>SC.48</mods:shelfLocator>
+      <mods:shelfLocator>Small Collection 048: Papers of David Livingstone</mods:shelfLocator>
     </mods:location>
+    <mods:accessCondition type='use and reproduction'>Images &amp;#169; copyright Billy Graham Center Archives, Wheaton College, Wheaton, Illinois</mods:accessCondition>
+    <mods:accessCondition type='use and reproduction'>As relevant, &amp;#169; Dr. Neil Imray Livingstone Wilson. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
   </mods:relatedItem>
   <mods:relatedItem type='otherVersion'>
     <mods:identifier>Reginald Coupland, Kirk on the Zambesi: A Chapter of African History (Oxford: the Clarendon Press, 1928), 95.</mods:identifier>

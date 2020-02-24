@@ -54,13 +54,18 @@
   </mods:subject>
   <mods:physicalDescription>
     <mods:note type='physical details'>Fragmentary manuscript in creator's hand</mods:note>
+    <mods:extent unit='pages'>1</mods:extent>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
     <mods:name type='corporate' authorityURI='http://id.loc.gov/authorities/names' valueURI='http://id.loc.gov/authorities/names/n50046537'>
-      <mods:namePart>St. John's University (Collegeville, Minnesota). Library</mods:namePart>
+      <mods:namePart>St. John's University (Collegeville, Minnesota). Hill Museum &amp; Manuscript Library</mods:namePart>
       <mods:role>
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
     </mods:name>
+    <mods:location>
+      <mods:shelfLocator>Saint John’s Rare Books, DT731.L75 1865</mods:shelfLocator>
+    </mods:location>
+    <mods:accessCondition type='use and reproduction'>&amp;#169; Hill Museum &amp; Manuscript Library. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
   </mods:relatedItem>
 </mods:mods>
