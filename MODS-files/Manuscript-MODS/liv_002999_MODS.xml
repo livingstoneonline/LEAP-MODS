@@ -60,7 +60,7 @@
     <mods:name type='corporate' authority='local'>
       <mods:namePart>Private owner</mods:namePart>
       <mods:role>
-        <mods:roleTerm type='text' authority='marclerator'></mods:roleTerm>
+        <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
     </mods:name>
     <mods:accessCondition type='use and reproduction'>Public domain.</mods:accessCondition>

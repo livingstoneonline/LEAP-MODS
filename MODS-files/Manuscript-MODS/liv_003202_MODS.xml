@@ -41,7 +41,7 @@
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
     <mods:name type='corporate' authority='local'>
-      <mods:namePart>Private owner</mods:namePart>
+      <mods:namePart>Livingstone Online</mods:namePart>
       <mods:role>
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
