@@ -1,36 +1,28 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes'?>
 <mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
-  <mods:identifier type='local' displayLabel='master_id'>liv_012057</mods:identifier>
+  <mods:identifier type='local' displayLabel='master_id'>liv_003315</mods:identifier>
   <mods:titleInfo>
-    <mods:title>Signed Copy of William Garden Blaikie, The Personal Life of David Livingstone, LL.D., D.C.L., F.R.S. 5th Ed. (1888)</mods:title>
+    <mods:title>Africa. The course of the River Shire, Below Lake Nyassa, and the River Zambesi, Below Kabrabassa; to Illustrate the Papers of Dr. David Livingstone</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Signed Copy of William Garden Blaikie, The Personal Life of David Livingstone, LL.D., D.C.L., F.R.S. 5th Ed. (1888), 19 May 1891</mods:title>
+    <mods:title>Africa. The course of the River Shire, Below Lake Nyassa, and the River Zambesi, Below Kabrabassa; to Illustrate the Papers of Dr. David Livingstone, 1861</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
-    <mods:namePart>Livingstone, Agnes 3, 1847-1912</mods:namePart>
+    <mods:namePart>J.W. Arrowsmith Ltd, London, Printers and Publishers</mods:namePart>
     <mods:role>
       <mods:roleTerm type='text'>creator</mods:roleTerm>
     </mods:role>
   </mods:name>
-  <mods:name type='personal'>
-    <mods:namePart>Henner[?], Mary</mods:namePart>
-    <mods:role>
-      <mods:roleTerm type='text'>addressee</mods:roleTerm>
-    </mods:role>
-  </mods:name>
-  <mods:genre authority='aat'>signatures (names)</mods:genre>
-  <mods:genre authority='aat'>books</mods:genre>
-  <mods:genre authority='aat'>autographs (manuscripts)</mods:genre>
+  <mods:genre authority='aat'>maps (documents)</mods:genre>
   <mods:genre authority='aat'>publications</mods:genre>
   <mods:originInfo>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
-    <mods:dateCreated>19 May 1891</mods:dateCreated>
-    <mods:dateCreated encoding='iso8601'>1891-05-19</mods:dateCreated>
+    <mods:dateCreated>1861</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>1861</mods:dateCreated>
   </mods:originInfo>
   <mods:originInfo displayLabel='Livingstone'>
     <mods:place>
-      <mods:placeTerm type='text'>[Britain?]</mods:placeTerm>
+      <mods:placeTerm type='text'>[Britain]</mods:placeTerm>
     </mods:place>
   </mods:originInfo>
   <mods:originInfo displayLabel='LoC'>
@@ -44,8 +36,9 @@
     </mods:cartographics>
   </mods:subject>
   <mods:physicalDescription>
-    <mods:note type='physical details'>Complete manuscript in creator's hand</mods:note>
+    <mods:note type='physical details'>Published copy</mods:note>
     <mods:extent unit='pages'>1</mods:extent>
+    <mods:note>1 folio, folded to create 2 pages, with writing on 1 page</mods:note>
   </mods:physicalDescription>
   <mods:relatedItem type='original'>
     <mods:name type='corporate' authority='local'>
@@ -54,6 +47,8 @@
         <mods:roleTerm type='text' authority='marclerator'>repository</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:accessCondition type='use and reproduction'>Images &amp;#169; Chris Worden. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
+  </mods:relatedItem>
+  <mods:relatedItem type='otherVersion'>
+    <mods:identifier>Journal of the Royal Geographical Society of London (London), 31 (1861), opposite 256.</mods:identifier>
   </mods:relatedItem>
 </mods:mods>
