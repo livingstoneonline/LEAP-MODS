@@ -2,13 +2,13 @@
 <mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
   <mods:identifier type='local' displayLabel='master_id'>liv_016271</mods:identifier>
   <mods:titleInfo>
-    <mods:title>Stamps Featuring British Explorers</mods:title>
+    <mods:title>Justin Livingstone launches the critical edition of Livingstone's Missionary Travels Manuscript, University of Dundee</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Stamps Featuring British Explorers, 18 April 1973</mods:title>
+    <mods:title>Justin Livingstone launches the critical edition of Livingstone's Missionary Travels Manuscript, University of Dundee, 2019</mods:title>
   </mods:titleInfo>
   <mods:name type='personal' authority='local'>
-    <mods:namePart>Saynor, Marjorie</mods:namePart>
+    <mods:namePart>Wisnicki, Adrian S.</mods:namePart>
     <mods:role>
       <mods:roleTerm type='text'>creator</mods:roleTerm>
     </mods:role>
@@ -18,9 +18,9 @@
     <mods:note>1 image</mods:note>
   </mods:physicalDescription>
   <mods:originInfo>
-    <mods:dateCreated>18 April 1973</mods:dateCreated>
-    <mods:dateCreated encoding='iso8601'>1973-04-18</mods:dateCreated>
+    <mods:dateCreated>2019</mods:dateCreated>
+    <mods:dateCreated encoding='iso8601'>2019</mods:dateCreated>
     <mods:publisher>Livingstone Online (http://livingstoneonline.org/)</mods:publisher>
   </mods:originInfo>
-  <mods:accessCondition type='use and reproduction'>Copyright status unknown.</mods:accessCondition>
+  <mods:accessCondition type='use and reproduction'>&amp;#169; Adrian S. Wisnicki. Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/).</mods:accessCondition>
 </mods:mods>
