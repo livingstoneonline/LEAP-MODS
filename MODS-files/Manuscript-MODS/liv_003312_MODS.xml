@@ -2,10 +2,10 @@
 <mods:mods xmlns:mods='http://www.loc.gov/mods/v3' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/standards/mods/v3/mods-3-5.xsd'>
   <mods:identifier type='local' displayLabel='master_id'>liv_003312</mods:identifier>
   <mods:titleInfo>
-    <mods:title>Map to Illustrate Dr. Livingston's􏰁􏰃 Route Across Africa; Constructed from his Astronomical Observations, Bearings, Estimated Distances, Sketches, &amp;c.&amp;c. by J. Arrowsmith. 1857</mods:title>
+    <mods:title>Map to Illustrate Dr. Livingston's Route Across Africa; Constructed from his Astronomical Observations, Bearings, Estimated Distances, Sketches, &amp;c.&amp;c. by J. Arrowsmith. 1857</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type='alternative'>
-    <mods:title>Map to Illustrate Dr. Livingston's􏰁􏰃 Route Across Africa; Constructed from his Astronomical Observations, Bearings, Estimated Distances, Sketches, &amp;c.&amp;c. by J. Arrowsmith. 1857, 1857</mods:title>
+    <mods:title>Map to Illustrate Dr. Livingston's Route Across Africa; Constructed from his Astronomical Observations, Bearings, Estimated Distances, Sketches, &amp;c.&amp;c. by J. Arrowsmith. 1857, 1857</mods:title>
   </mods:titleInfo>
   <mods:name type='personal'>
     <mods:namePart>J.W. Arrowsmith Ltd, London, Printers and Publishers</mods:namePart>
